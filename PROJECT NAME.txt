@@ -1,0 +1,39 @@
+PROJECT NAME
+
+Airline Delay Analysis Dashboard
+
+TECHNOLOGY
+
+HTML
+
+CSS
+
+JavaScript
+
+CSV
+
+FEATURES
+
+1. Airline Delay Analysis
+
+2. CSV Data Loading
+
+3. Dashboard
+
+4. Statistics
+
+5. Search Airline
+
+6. Download Report
+
+7. Dark Mode
+
+8. Responsive Design
+
+9. Bar Chart
+
+10. Pie Chart
+
+DEVELOPER
+
+Montu Rajput

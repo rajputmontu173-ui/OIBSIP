@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Airline Delay Analysis Dashboard</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Chart JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+
+    <header>
+
+        <h1>✈ Airline Delay Analysis Dashboard</h1>
+
+        <p>Analyze Airline Delay using CSV File</p>
+
+    </header>
+
+
+
+    <!-- Top Buttons -->
+
+    <div class="top-buttons">
+
+        <button onclick="loadData()">
+            Load CSV Data
+        </button>
+
+        <button onclick="downloadReport()">
+            Download Report
+        </button>
+
+        <button onclick="toggleDarkMode()">
+            Dark Mode
+        </button>
+
+    </div>
+
+
+
+    <!-- Search -->
+
+    <div class="search-box">
+
+        <input
+        type="text"
+        id="search"
+        placeholder="Search Airline..."
+        onkeyup="searchFlight()">
+
+    </div>
+
+
+
+    <!-- Statistics -->
+
+    <div class="cards">
+
+        <div class="card">
+
+            <h2 id="totalFlights">0</h2>
+
+            <p>Total Flights</p>
+
+        </div>
+
+        <div class="card">
+
+            <h2 id="avgDelay">0</h2>
+
+            <p>Average Delay</p>
+
+        </div>
+
+        <div class="card">
+
+            <h2 id="maxDelay">0</h2>
+
+            <p>Maximum Delay</p>
+
+        </div>
+
+        <div class="card">
+
+            <h2 id="minDelay">0</h2>
+
+            <p>Minimum Delay</p>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- Table -->
+
+    <div class="table-container">
+
+    <table id="table">
+
+        <thead>
+
+            <tr>
+
+                <th>Flight</th>
+
+                <th>Airline</th>
+
+                <th>Origin</th>
+
+                <th>Destination</th>
+
+                <th>Delay (Minutes)</th>
+
+                <th>Status</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+        </tbody>
+
+    </table>
+
+    </div>
+
+
+
+    <!-- Charts -->
+
+    <div class="chart-container">
+
+        <div class="chart-box">
+
+            <h2>Delay Comparison</h2>
+
+            <canvas id="barChart"></canvas>
+
+        </div>
+
+        <div class="chart-box">
+
+            <h2>Airline Distribution</h2>
+
+            <canvas id="pieChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- Footer -->
+
+    <footer>
+
+        <p>
+
+            Developed using HTML, CSS, JavaScript & CSV
+
+        </p>
+
+    </footer>
+
+</div>
+
+
+
+<!-- JavaScript -->
+
+<script src="script.js"></script>
+
+</body>
+</html>
