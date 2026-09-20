@@ -1,0 +1,1501 @@
+Transaction_ID,Customer_ID,Product,Category,Price_Per_Unit,Quantity,Total_Sales,Date,Age,Gender,Channel,Payment_Method
+T1,C1215,Jeans,Clothing,1260,3,3780,2025-03-13,38,Male,Store,Debit Card
+T2,C1053,Coffee Maker,Home & Kitchen,6078,5,30390,2025-04-10,57,Female,Online,Credit Card
+T3,C1161,Smartphone,Electronics,60535,4,242140,2025-10-21,19,Female,Store,UPI
+T4,C1170,Mixer,Home & Kitchen,3885,5,19425,2025-08-24,42,Male,Online,Debit Card
+T5,C1229,Cricket Bat,Sports,589,3,1767,2025-12-30,69,Female,Online,Debit Card
+T6,C1060,Running Shoes,Sports,9238,5,46190,2025-11-25,56,Female,Store,UPI
+T7,C1092,Face Wash,Beauty,441,2,882,2025-09-22,43,Male,Store,Cash
+T8,C1164,Perfume,Beauty,1678,4,6712,2025-09-21,64,Male,Store,UPI
+T9,C1054,Yoga Mat,Sports,4343,4,17372,2025-01-02,23,Female,Store,Cash
+T10,C1095,Yoga Mat,Sports,7273,4,29092,2025-06-11,27,Female,Store,Credit Card
+T11,C1082,Cricket Bat,Sports,8029,4,32116,2025-07-09,57,Male,Store,UPI
+T12,C1045,Perfume,Beauty,1276,2,2552,2025-08-05,62,Male,Online,Debit Card
+T13,C1063,Laptop,Electronics,49784,1,49784,2025-12-10,18,Female,Store,Cash
+T14,C1234,Coffee Maker,Home & Kitchen,6118,1,6118,2025-06-12,52,Male,Online,UPI
+T15,C1247,Jeans,Clothing,3499,1,3499,2025-11-24,29,Female,Online,Cash
+T16,C1206,Smartwatch,Electronics,85451,3,256353,2025-02-04,18,Male,Online,Debit Card
+T17,C1207,Headphones,Electronics,53792,5,268960,2025-08-06,31,Male,Online,UPI
+T18,C1096,Perfume,Beauty,1684,3,5052,2025-03-04,49,Male,Online,Cash
+T19,C1036,Tablet,Electronics,18941,5,94705,2025-08-19,62,Male,Online,UPI
+T20,C1062,Air Fryer,Home & Kitchen,10414,3,31242,2025-03-27,45,Female,Store,UPI
+T21,C1075,T-Shirt,Clothing,5291,4,21164,2025-04-18,61,Female,Store,Credit Card
+T22,C1103,Jeans,Clothing,2637,1,2637,2025-10-10,69,Male,Online,Debit Card
+T23,C1172,T-Shirt,Clothing,5975,3,17925,2025-05-17,54,Male,Online,Credit Card
+T24,C1052,Perfume,Beauty,3645,1,3645,2025-06-29,66,Female,Online,Credit Card
+T25,C1187,Mixer,Home & Kitchen,4081,2,8162,2025-04-23,54,Male,Store,UPI
+T26,C1129,Football,Sports,5137,4,20548,2025-02-23,40,Male,Store,UPI
+T27,C1247,Running Shoes,Sports,5649,5,28245,2025-06-21,43,Female,Store,Cash
+T28,C1069,Tablet,Electronics,53462,3,160386,2025-07-03,34,Male,Store,Cash
+T29,C1187,Badminton Racket,Sports,8177,3,24531,2025-08-28,33,Male,Online,Cash
+T30,C1147,T-Shirt,Clothing,2911,5,14555,2025-09-16,37,Female,Online,Cash
+T31,C1011,Headphones,Electronics,12211,4,48844,2025-05-08,56,Female,Store,UPI
+T32,C1112,Yoga Mat,Sports,5934,2,11868,2025-04-09,24,Female,Store,Credit Card
+T33,C1247,Badminton Racket,Sports,2449,1,2449,2025-10-31,29,Male,Online,Cash
+T34,C1054,Sneakers,Clothing,3570,3,10710,2025-10-31,33,Male,Store,Cash
+T35,C1104,Laptop,Electronics,12983,4,51932,2025-03-16,66,Female,Store,Credit Card
+T36,C1146,Badminton Racket,Sports,8845,3,26535,2025-04-22,42,Male,Online,UPI
+T37,C1228,Face Wash,Beauty,4633,2,9266,2025-11-06,52,Female,Online,UPI
+T38,C1136,Laptop,Electronics,39267,1,39267,2025-10-04,65,Female,Store,Cash
+T39,C1115,Jeans,Clothing,1618,1,1618,2025-05-08,50,Female,Store,Debit Card
+T40,C1021,Face Wash,Beauty,1893,5,9465,2025-02-20,25,Male,Online,Credit Card
+T41,C1192,Laptop,Electronics,40590,1,40590,2025-11-13,65,Male,Store,Debit Card
+T42,C1117,Football,Sports,8079,1,8079,2025-06-21,45,Female,Online,Credit Card
+T43,C1116,T-Shirt,Clothing,1460,5,7300,2025-10-29,48,Male,Store,UPI
+T44,C1067,Laptop,Electronics,86114,2,172228,2025-10-08,59,Male,Store,Credit Card
+T45,C1127,Jacket,Clothing,3133,2,6266,2025-10-15,64,Female,Online,Credit Card
+T46,C1246,Hoodie,Clothing,1809,2,3618,2025-09-30,57,Male,Online,Debit Card
+T47,C1152,Cricket Bat,Sports,7606,5,38030,2025-06-19,43,Male,Store,UPI
+T48,C1008,Air Fryer,Home & Kitchen,7471,2,14942,2025-11-09,53,Male,Store,UPI
+T49,C1215,Face Wash,Beauty,4695,4,18780,2025-05-23,45,Female,Store,Cash
+T50,C1070,Running Shoes,Sports,4169,5,20845,2025-05-30,39,Male,Store,Credit Card
+T51,C1196,Perfume,Beauty,2691,5,13455,2025-09-21,61,Female,Online,Debit Card
+T52,C1052,T-Shirt,Clothing,1276,4,5104,2025-12-16,64,Male,Online,Cash
+T53,C1063,Cricket Bat,Sports,4865,4,19460,2025-04-16,47,Male,Online,Cash
+T54,C1127,Running Shoes,Sports,5577,2,11154,2025-08-17,43,Male,Store,Debit Card
+T55,C1126,Sneakers,Clothing,2331,5,11655,2025-05-09,18,Male,Store,Cash
+T56,C1022,Cricket Bat,Sports,4072,5,20360,2025-09-29,56,Female,Online,UPI
+T57,C1029,Headphones,Electronics,85867,2,171734,2025-05-24,68,Male,Store,UPI
+T58,C1244,Face Wash,Beauty,1443,5,7215,2025-02-16,66,Female,Store,Credit Card
+T59,C1222,Smartwatch,Electronics,44719,2,89438,2025-12-07,56,Female,Online,Credit Card
+T60,C1223,Smartwatch,Electronics,27446,2,54892,2025-01-10,22,Female,Store,Cash
+T61,C1004,Hoodie,Clothing,4130,2,8260,2025-04-06,18,Female,Online,UPI
+T62,C1178,Cricket Bat,Sports,3239,2,6478,2025-06-09,44,Female,Store,Cash
+T63,C1065,Headphones,Electronics,35995,1,35995,2025-06-28,60,Male,Store,Debit Card
+T64,C1046,Laptop,Electronics,70249,3,210747,2025-02-13,46,Male,Store,Debit Card
+T65,C1090,Smartphone,Electronics,28150,1,28150,2025-03-31,25,Male,Store,Credit Card
+T66,C1120,Smartphone,Electronics,58258,1,58258,2025-07-15,67,Male,Online,UPI
+T67,C1152,Tablet,Electronics,34296,5,171480,2025-09-06,53,Female,Online,UPI
+T68,C1037,Headphones,Electronics,83842,4,335368,2025-04-06,41,Male,Store,Cash
+T69,C1017,Mixer,Home & Kitchen,3940,5,19700,2025-10-06,42,Male,Online,Credit Card
+T70,C1100,Football,Sports,9187,1,9187,2025-12-08,30,Male,Online,UPI
+T71,C1223,Mixer,Home & Kitchen,7900,3,23700,2025-03-17,26,Male,Store,Credit Card
+T72,C1180,Badminton Racket,Sports,5346,2,10692,2025-05-24,22,Male,Store,UPI
+T73,C1167,Tablet,Electronics,61366,1,61366,2025-02-08,62,Male,Store,Credit Card
+T74,C1075,Face Wash,Beauty,3494,2,6988,2025-05-13,52,Male,Online,Debit Card
+T75,C1230,Yoga Mat,Sports,5246,4,20984,2025-01-09,27,Female,Store,UPI
+T76,C1122,Jeans,Clothing,5693,5,28465,2025-06-17,59,Male,Store,Debit Card
+T77,C1109,Smartphone,Electronics,84260,5,421300,2025-06-14,55,Male,Store,Cash
+T78,C1036,Laptop,Electronics,84085,4,336340,2025-05-25,24,Male,Online,Cash
+T79,C1019,T-Shirt,Clothing,3886,3,11658,2025-12-30,56,Male,Store,Credit Card
+T80,C1148,Jeans,Clothing,3922,5,19610,2025-05-21,67,Female,Store,Credit Card
+T81,C1249,Jacket,Clothing,5324,1,5324,2025-01-01,20,Male,Store,Credit Card
+T82,C1160,Football,Sports,7976,1,7976,2025-04-27,23,Female,Store,UPI
+T83,C1164,Air Fryer,Home & Kitchen,2352,5,11760,2025-03-21,38,Male,Store,UPI
+T84,C1159,Headphones,Electronics,31154,4,124616,2025-02-16,58,Male,Store,Debit Card
+T85,C1102,Laptop,Electronics,69666,1,69666,2025-01-12,27,Female,Store,Cash
+T86,C1186,Mixer,Home & Kitchen,8075,4,32300,2025-01-08,45,Female,Store,Cash
+T87,C1246,Yoga Mat,Sports,939,4,3756,2025-12-23,58,Female,Store,Debit Card
+T88,C1141,Football,Sports,5720,1,5720,2025-07-31,30,Female,Store,UPI
+T89,C1010,Face Wash,Beauty,3524,2,7048,2025-09-13,22,Male,Online,Credit Card
+T90,C1224,Yoga Mat,Sports,7818,5,39090,2025-01-05,50,Female,Online,Credit Card
+T91,C1098,Perfume,Beauty,4358,1,4358,2025-12-08,44,Male,Online,UPI
+T92,C1095,Sneakers,Clothing,910,1,910,2025-11-07,23,Female,Online,UPI
+T93,C1202,Smartwatch,Electronics,81442,5,407210,2025-01-23,54,Male,Online,Credit Card
+T94,C1190,Running Shoes,Sports,7645,1,7645,2025-01-01,68,Male,Online,Cash
+T95,C1250,Laptop,Electronics,38544,2,77088,2025-12-14,48,Female,Online,Credit Card
+T96,C1133,Smartphone,Electronics,62677,3,188031,2025-11-02,29,Male,Store,Cash
+T97,C1103,Football,Sports,5119,5,25595,2025-12-07,31,Female,Online,Debit Card
+T98,C1079,T-Shirt,Clothing,5259,2,10518,2025-10-21,67,Female,Store,Credit Card
+T99,C1030,Running Shoes,Sports,1731,1,1731,2025-06-15,50,Female,Online,Cash
+T100,C1074,Hoodie,Clothing,2528,5,12640,2025-10-12,21,Female,Store,UPI
+T101,C1205,Football,Sports,3979,4,15916,2025-03-10,51,Female,Online,Credit Card
+T102,C1144,Coffee Maker,Home & Kitchen,2406,1,2406,2025-05-31,33,Male,Online,Credit Card
+T103,C1155,Jacket,Clothing,1299,4,5196,2025-07-03,42,Male,Store,Debit Card
+T104,C1061,Yoga Mat,Sports,7177,3,21531,2025-10-04,22,Female,Store,Credit Card
+T105,C1045,T-Shirt,Clothing,923,2,1846,2025-02-15,51,Male,Store,Credit Card
+T106,C1063,Sneakers,Clothing,2696,1,2696,2025-08-02,64,Female,Store,Debit Card
+T107,C1099,Cricket Bat,Sports,4044,1,4044,2025-01-26,53,Male,Store,UPI
+T108,C1109,Badminton Racket,Sports,702,2,1404,2025-01-28,40,Female,Store,Credit Card
+T109,C1227,Face Wash,Beauty,1846,3,5538,2025-08-27,62,Female,Store,Credit Card
+T110,C1185,Running Shoes,Sports,3486,1,3486,2025-04-29,54,Female,Store,Debit Card
+T111,C1212,Football,Sports,6629,2,13258,2025-05-06,61,Male,Online,UPI
+T112,C1111,Tablet,Electronics,8361,3,25083,2025-08-21,62,Female,Online,Cash
+T113,C1006,Smartphone,Electronics,13710,1,13710,2025-08-24,36,Female,Online,UPI
+T114,C1033,Badminton Racket,Sports,5801,2,11602,2025-11-11,62,Female,Online,UPI
+T115,C1095,T-Shirt,Clothing,2005,4,8020,2025-12-16,28,Female,Store,Credit Card
+T116,C1152,Sneakers,Clothing,5254,3,15762,2025-08-31,48,Female,Online,Cash
+T117,C1113,T-Shirt,Clothing,867,4,3468,2025-03-16,21,Male,Store,Credit Card
+T118,C1179,T-Shirt,Clothing,5442,1,5442,2025-07-13,32,Male,Store,Credit Card
+T119,C1020,Air Fryer,Home & Kitchen,6969,2,13938,2025-04-28,21,Male,Store,UPI
+T120,C1126,Football,Sports,6683,1,6683,2025-03-31,31,Female,Store,UPI
+T121,C1010,Coffee Maker,Home & Kitchen,7488,3,22464,2025-09-16,50,Female,Store,Cash
+T122,C1084,Smartwatch,Electronics,88758,2,177516,2025-06-21,19,Male,Store,Credit Card
+T123,C1152,Laptop,Electronics,2142,5,10710,2025-11-25,34,Male,Online,Debit Card
+T124,C1188,T-Shirt,Clothing,2438,3,7314,2025-04-04,48,Male,Online,Credit Card
+T125,C1001,Mixer,Home & Kitchen,10661,5,53305,2025-05-17,51,Female,Online,Debit Card
+T126,C1229,Jacket,Clothing,3791,4,15164,2025-11-16,46,Female,Online,UPI
+T127,C1154,Face Wash,Beauty,1514,5,7570,2025-06-14,22,Male,Online,Credit Card
+T128,C1039,Tablet,Electronics,17784,5,88920,2025-02-11,42,Female,Store,Cash
+T129,C1143,Jacket,Clothing,3997,3,11991,2025-05-05,55,Male,Online,Debit Card
+T130,C1053,Laptop,Electronics,19896,1,19896,2025-08-13,64,Male,Store,Credit Card
+T131,C1135,Jacket,Clothing,2551,3,7653,2025-02-08,68,Female,Store,Debit Card
+T132,C1222,Running Shoes,Sports,8535,2,17070,2025-01-15,64,Male,Online,Cash
+T133,C1229,Jeans,Clothing,1322,4,5288,2025-06-06,55,Male,Online,UPI
+T134,C1118,Laptop,Electronics,68579,2,137158,2025-01-10,22,Male,Store,UPI
+T135,C1157,T-Shirt,Clothing,5310,4,21240,2025-12-31,41,Female,Store,Debit Card
+T136,C1115,Jacket,Clothing,3628,4,14512,2025-11-28,62,Female,Online,Debit Card
+T137,C1074,Running Shoes,Sports,1193,3,3579,2025-10-10,22,Female,Online,Credit Card
+T138,C1104,Jacket,Clothing,2997,2,5994,2025-10-29,60,Female,Store,UPI
+T139,C1236,Yoga Mat,Sports,1384,1,1384,2025-04-21,57,Female,Online,Cash
+T140,C1241,Tablet,Electronics,81679,4,326716,2025-05-13,54,Female,Online,Credit Card
+T141,C1011,Sneakers,Clothing,5509,3,16527,2025-01-29,31,Female,Online,Credit Card
+T142,C1057,Laptop,Electronics,77389,5,386945,2025-12-12,63,Female,Store,Debit Card
+T143,C1202,Laptop,Electronics,53973,3,161919,2025-05-29,64,Male,Online,UPI
+T144,C1025,Badminton Racket,Sports,6856,5,34280,2025-06-03,58,Male,Online,Cash
+T145,C1128,Coffee Maker,Home & Kitchen,8473,2,16946,2025-07-29,44,Female,Online,UPI
+T146,C1199,Coffee Maker,Home & Kitchen,9646,4,38584,2025-09-08,68,Female,Store,UPI
+T147,C1154,Badminton Racket,Sports,3972,1,3972,2025-06-26,46,Male,Online,Credit Card
+T148,C1118,Yoga Mat,Sports,5988,1,5988,2025-12-03,37,Male,Online,Cash
+T149,C1123,Jacket,Clothing,4822,1,4822,2025-08-12,30,Female,Online,Debit Card
+T150,C1168,Running Shoes,Sports,2479,5,12395,2025-11-01,62,Male,Store,Cash
+T151,C1246,Running Shoes,Sports,2465,1,2465,2025-03-19,68,Male,Store,Credit Card
+T152,C1055,Football,Sports,6197,3,18591,2025-11-15,21,Male,Store,UPI
+T153,C1032,Jeans,Clothing,5295,2,10590,2025-06-11,50,Male,Online,Cash
+T154,C1216,Yoga Mat,Sports,3862,5,19310,2025-01-08,18,Male,Online,Debit Card
+T155,C1008,Jacket,Clothing,3710,5,18550,2025-03-08,68,Male,Store,Debit Card
+T156,C1176,Smartphone,Electronics,74306,3,222918,2025-06-14,38,Female,Online,Debit Card
+T157,C1112,Yoga Mat,Sports,6550,2,13100,2025-09-20,50,Male,Online,Debit Card
+T158,C1148,Running Shoes,Sports,1708,4,6832,2025-03-23,19,Male,Online,UPI
+T159,C1005,Coffee Maker,Home & Kitchen,5341,2,10682,2025-07-14,40,Male,Store,Cash
+T160,C1086,Smartwatch,Electronics,79557,1,79557,2025-08-14,61,Male,Store,Credit Card
+T161,C1209,Mixer,Home & Kitchen,11453,3,34359,2025-08-03,49,Male,Store,Debit Card
+T162,C1022,Face Wash,Beauty,4816,2,9632,2025-08-25,42,Male,Online,Credit Card
+T163,C1037,Coffee Maker,Home & Kitchen,3041,4,12164,2025-06-03,46,Male,Store,Debit Card
+T164,C1166,Coffee Maker,Home & Kitchen,7481,2,14962,2025-05-08,38,Female,Store,UPI
+T165,C1117,Smartphone,Electronics,40752,5,203760,2025-06-02,55,Female,Store,Debit Card
+T166,C1098,Hoodie,Clothing,741,5,3705,2025-01-27,48,Female,Online,Cash
+T167,C1190,Mixer,Home & Kitchen,6636,5,33180,2025-06-22,34,Female,Online,Cash
+T168,C1036,Face Wash,Beauty,4425,4,17700,2025-11-06,60,Male,Online,UPI
+T169,C1113,Running Shoes,Sports,4524,5,22620,2025-09-24,57,Male,Store,Cash
+T170,C1069,Jeans,Clothing,1650,2,3300,2025-02-24,64,Female,Store,Credit Card
+T171,C1235,Laptop,Electronics,59929,4,239716,2025-08-27,37,Male,Online,Cash
+T172,C1194,Football,Sports,7501,3,22503,2025-12-31,60,Female,Online,Credit Card
+T173,C1042,Sneakers,Clothing,2743,1,2743,2025-05-09,42,Male,Online,Cash
+T174,C1102,Jeans,Clothing,4626,2,9252,2025-08-17,61,Female,Online,Credit Card
+T175,C1189,Smartphone,Electronics,23851,3,71553,2025-04-11,61,Male,Online,UPI
+T176,C1080,Football,Sports,729,1,729,2025-11-07,66,Male,Store,Credit Card
+T177,C1198,Running Shoes,Sports,6295,5,31475,2025-03-22,40,Male,Store,Cash
+T178,C1047,Jacket,Clothing,5608,4,22432,2025-05-23,43,Male,Online,Credit Card
+T179,C1014,Hoodie,Clothing,5535,1,5535,2025-10-09,38,Female,Store,Debit Card
+T180,C1221,Perfume,Beauty,828,1,828,2025-06-25,25,Female,Online,Debit Card
+T181,C1227,Yoga Mat,Sports,3694,4,14776,2025-04-13,34,Female,Online,Cash
+T182,C1183,Mixer,Home & Kitchen,8480,2,16960,2025-05-11,54,Male,Store,Credit Card
+T183,C1210,Mixer,Home & Kitchen,8730,1,8730,2025-01-04,46,Female,Online,UPI
+T184,C1247,Laptop,Electronics,80073,4,320292,2025-11-07,52,Female,Store,Credit Card
+T185,C1244,Air Fryer,Home & Kitchen,11904,2,23808,2025-04-06,52,Male,Online,Credit Card
+T186,C1121,Football,Sports,8836,4,35344,2025-07-04,33,Female,Store,Debit Card
+T187,C1142,Hoodie,Clothing,1320,4,5280,2025-03-06,47,Male,Online,UPI
+T188,C1238,Yoga Mat,Sports,6867,2,13734,2025-10-20,42,Female,Online,UPI
+T189,C1037,Perfume,Beauty,2832,1,2832,2025-12-10,21,Female,Online,Credit Card
+T190,C1052,Smartwatch,Electronics,38373,3,115119,2025-03-03,30,Female,Online,Debit Card
+T191,C1107,Tablet,Electronics,55642,4,222568,2025-12-15,68,Male,Store,Credit Card
+T192,C1047,Smartphone,Electronics,83656,1,83656,2025-09-16,23,Male,Online,Credit Card
+T193,C1062,Football,Sports,2313,1,2313,2025-03-02,59,Male,Store,Credit Card
+T194,C1142,Football,Sports,8594,3,25782,2025-09-26,64,Male,Online,Cash
+T195,C1153,Smartwatch,Electronics,18474,1,18474,2025-11-19,45,Male,Online,Debit Card
+T196,C1139,Smartphone,Electronics,26731,2,53462,2025-01-09,32,Female,Online,UPI
+T197,C1090,Smartphone,Electronics,26359,4,105436,2025-02-07,25,Male,Online,Cash
+T198,C1081,Yoga Mat,Sports,8628,4,34512,2025-06-25,30,Female,Online,UPI
+T199,C1040,Yoga Mat,Sports,9916,5,49580,2025-04-25,20,Female,Store,Credit Card
+T200,C1059,Air Fryer,Home & Kitchen,1812,3,5436,2025-12-02,57,Female,Online,Debit Card
+T201,C1100,Cricket Bat,Sports,2104,5,10520,2025-12-29,62,Male,Online,Credit Card
+T202,C1031,T-Shirt,Clothing,5195,5,25975,2025-08-23,62,Female,Online,Debit Card
+T203,C1002,Hoodie,Clothing,3119,3,9357,2025-06-07,56,Male,Store,Cash
+T204,C1046,Face Wash,Beauty,788,5,3940,2025-01-12,56,Female,Store,UPI
+T205,C1070,Football,Sports,2464,2,4928,2025-07-07,41,Male,Online,Cash
+T206,C1037,Running Shoes,Sports,5752,2,11504,2025-11-15,45,Female,Online,Credit Card
+T207,C1012,Tablet,Electronics,73395,4,293580,2025-08-30,21,Male,Store,UPI
+T208,C1050,Football,Sports,8473,1,8473,2025-01-22,43,Female,Online,Credit Card
+T209,C1125,Face Wash,Beauty,4999,5,24995,2025-07-23,53,Male,Online,Cash
+T210,C1179,Mixer,Home & Kitchen,5626,5,28130,2025-02-02,23,Male,Online,Cash
+T211,C1233,Coffee Maker,Home & Kitchen,10145,2,20290,2025-10-12,21,Male,Online,UPI
+T212,C1175,Jeans,Clothing,3742,5,18710,2025-06-06,28,Female,Store,Credit Card
+T213,C1184,Face Wash,Beauty,3355,3,10065,2025-01-27,20,Male,Store,Cash
+T214,C1001,Perfume,Beauty,4226,4,16904,2025-09-19,36,Male,Online,Debit Card
+T215,C1018,T-Shirt,Clothing,3998,2,7996,2025-06-12,66,Male,Store,Cash
+T216,C1053,Perfume,Beauty,2455,3,7365,2025-03-13,63,Male,Online,UPI
+T217,C1093,Jacket,Clothing,990,3,2970,2025-06-23,67,Female,Online,Debit Card
+T218,C1199,Mixer,Home & Kitchen,9384,4,37536,2025-02-15,32,Male,Store,Credit Card
+T219,C1063,Football,Sports,2275,4,9100,2025-01-09,55,Female,Online,Cash
+T220,C1018,Smartphone,Electronics,55415,3,166245,2025-03-05,30,Male,Store,UPI
+T221,C1169,Yoga Mat,Sports,1789,3,5367,2025-10-28,42,Male,Store,Credit Card
+T222,C1046,Jacket,Clothing,1178,3,3534,2025-03-29,58,Male,Store,UPI
+T223,C1242,Perfume,Beauty,791,4,3164,2025-05-28,50,Female,Store,Cash
+T224,C1077,Laptop,Electronics,49953,1,49953,2025-10-16,58,Male,Store,UPI
+T225,C1242,Badminton Racket,Sports,8233,2,16466,2025-06-15,56,Female,Store,Credit Card
+T226,C1123,Perfume,Beauty,3241,2,6482,2025-11-01,57,Male,Online,Debit Card
+T227,C1204,T-Shirt,Clothing,2456,1,2456,2025-12-25,48,Female,Online,Credit Card
+T228,C1127,Jacket,Clothing,4311,2,8622,2025-12-14,37,Female,Online,Debit Card
+T229,C1154,Jeans,Clothing,858,4,3432,2025-07-27,21,Female,Store,Credit Card
+T230,C1246,Headphones,Electronics,57246,1,57246,2025-07-07,59,Female,Online,Credit Card
+T231,C1055,Mixer,Home & Kitchen,10826,4,43304,2025-01-25,62,Male,Store,Debit Card
+T232,C1198,Face Wash,Beauty,3627,5,18135,2025-08-09,49,Male,Store,Credit Card
+T233,C1202,Yoga Mat,Sports,1061,5,5305,2025-12-18,58,Male,Online,Cash
+T234,C1186,Running Shoes,Sports,6636,1,6636,2025-11-28,66,Female,Online,Debit Card
+T235,C1105,Badminton Racket,Sports,9979,4,39916,2025-06-01,67,Male,Online,Cash
+T236,C1164,Tablet,Electronics,26649,5,133245,2025-12-20,53,Female,Online,Credit Card
+T237,C1012,T-Shirt,Clothing,4790,2,9580,2025-08-31,68,Female,Store,UPI
+T238,C1026,Headphones,Electronics,49164,2,98328,2025-02-09,38,Male,Online,Debit Card
+T239,C1069,Jacket,Clothing,2547,2,5094,2025-01-14,31,Female,Online,UPI
+T240,C1217,T-Shirt,Clothing,3452,1,3452,2025-11-14,64,Female,Store,Debit Card
+T241,C1005,Badminton Racket,Sports,8721,1,8721,2025-12-11,45,Female,Online,UPI
+T242,C1139,Laptop,Electronics,22727,4,90908,2025-06-13,62,Male,Online,Debit Card
+T243,C1001,Hoodie,Clothing,4178,2,8356,2025-04-03,27,Female,Store,UPI
+T244,C1165,Smartwatch,Electronics,80330,4,321320,2025-01-01,37,Female,Online,Debit Card
+T245,C1207,Perfume,Beauty,2412,1,2412,2025-04-30,61,Female,Store,Debit Card
+T246,C1020,T-Shirt,Clothing,1019,3,3057,2025-11-30,19,Male,Online,UPI
+T247,C1161,Laptop,Electronics,39830,3,119490,2025-07-17,54,Male,Online,UPI
+T248,C1126,Football,Sports,1629,4,6516,2025-10-03,67,Female,Online,Debit Card
+T249,C1171,Smartphone,Electronics,46072,2,92144,2025-10-12,56,Male,Store,Debit Card
+T250,C1045,Yoga Mat,Sports,9510,4,38040,2025-10-21,37,Male,Store,Credit Card
+T251,C1008,Badminton Racket,Sports,2369,2,4738,2025-01-08,67,Male,Online,Debit Card
+T252,C1114,T-Shirt,Clothing,5012,2,10024,2025-07-12,43,Male,Store,Credit Card
+T253,C1196,Yoga Mat,Sports,8105,1,8105,2025-03-17,44,Female,Online,Credit Card
+T254,C1220,Laptop,Electronics,32690,5,163450,2025-10-31,22,Male,Store,Credit Card
+T255,C1073,Smartphone,Electronics,17887,1,17887,2025-06-10,58,Male,Store,UPI
+T256,C1132,Air Fryer,Home & Kitchen,3730,1,3730,2025-11-20,51,Male,Store,Credit Card
+T257,C1109,T-Shirt,Clothing,4514,2,9028,2025-03-23,30,Male,Online,Debit Card
+T258,C1199,Coffee Maker,Home & Kitchen,4212,1,4212,2025-08-01,32,Male,Store,Credit Card
+T259,C1224,Perfume,Beauty,1116,3,3348,2025-11-12,46,Male,Online,UPI
+T260,C1074,Football,Sports,6459,2,12918,2025-09-24,52,Female,Store,Credit Card
+T261,C1198,Smartphone,Electronics,78376,3,235128,2025-03-26,43,Female,Store,Credit Card
+T262,C1015,Mixer,Home & Kitchen,5752,2,11504,2025-10-31,54,Male,Store,Cash
+T263,C1107,Coffee Maker,Home & Kitchen,9635,2,19270,2025-12-30,60,Male,Online,Debit Card
+T264,C1021,Cricket Bat,Sports,5643,1,5643,2025-10-19,28,Male,Online,Cash
+T265,C1238,Air Fryer,Home & Kitchen,5382,2,10764,2025-11-30,21,Female,Online,Cash
+T266,C1132,Perfume,Beauty,305,4,1220,2025-06-07,35,Female,Online,UPI
+T267,C1191,Coffee Maker,Home & Kitchen,1786,4,7144,2025-03-15,56,Male,Online,Debit Card
+T268,C1007,Football,Sports,8505,5,42525,2025-10-25,53,Female,Store,Credit Card
+T269,C1150,Laptop,Electronics,22475,5,112375,2025-12-28,64,Male,Online,Debit Card
+T270,C1125,Sneakers,Clothing,3497,1,3497,2025-09-28,27,Female,Store,UPI
+T271,C1152,Hoodie,Clothing,3031,1,3031,2025-06-03,44,Male,Store,Credit Card
+T272,C1164,Running Shoes,Sports,4083,4,16332,2025-06-16,27,Male,Store,Debit Card
+T273,C1226,Hoodie,Clothing,3440,2,6880,2025-03-10,64,Male,Online,Cash
+T274,C1220,Laptop,Electronics,17814,5,89070,2025-05-30,65,Male,Online,Debit Card
+T275,C1153,Jeans,Clothing,1946,2,3892,2025-03-19,30,Male,Online,Credit Card
+T276,C1118,Smartphone,Electronics,18527,3,55581,2025-09-20,38,Female,Online,Credit Card
+T277,C1102,Jeans,Clothing,4408,1,4408,2025-10-07,63,Male,Store,Credit Card
+T278,C1131,Hoodie,Clothing,1590,5,7950,2025-02-05,57,Male,Online,Cash
+T279,C1049,Sneakers,Clothing,5872,3,17616,2025-03-11,58,Male,Store,UPI
+T280,C1200,Smartphone,Electronics,71387,5,356935,2025-01-27,49,Male,Store,Credit Card
+T281,C1215,Yoga Mat,Sports,8658,4,34632,2025-02-27,20,Female,Store,Credit Card
+T282,C1008,Mixer,Home & Kitchen,3317,1,3317,2025-10-18,51,Male,Store,Cash
+T283,C1106,Mixer,Home & Kitchen,10560,5,52800,2025-10-14,64,Male,Online,Cash
+T284,C1237,Cricket Bat,Sports,3483,1,3483,2025-05-16,37,Male,Store,Credit Card
+T285,C1150,Running Shoes,Sports,6499,4,25996,2025-11-17,47,Male,Store,Credit Card
+T286,C1142,Yoga Mat,Sports,5295,1,5295,2025-09-29,29,Female,Store,Credit Card
+T287,C1219,Tablet,Electronics,6582,2,13164,2025-08-25,19,Male,Online,Credit Card
+T288,C1196,Sneakers,Clothing,2896,3,8688,2025-11-19,69,Female,Online,Credit Card
+T289,C1234,Yoga Mat,Sports,4806,3,14418,2025-05-23,39,Female,Online,Cash
+T290,C1216,Mixer,Home & Kitchen,1060,2,2120,2025-06-15,35,Male,Online,Credit Card
+T291,C1143,Hoodie,Clothing,533,3,1599,2025-12-02,24,Female,Store,UPI
+T292,C1210,Headphones,Electronics,7521,3,22563,2025-05-10,52,Female,Store,Cash
+T293,C1065,Hoodie,Clothing,2385,1,2385,2025-09-10,50,Female,Online,Credit Card
+T294,C1149,Face Wash,Beauty,437,5,2185,2025-01-25,30,Male,Store,Cash
+T295,C1032,Smartphone,Electronics,18147,1,18147,2025-03-20,21,Male,Store,Cash
+T296,C1160,Air Fryer,Home & Kitchen,9234,4,36936,2025-05-26,46,Female,Online,Credit Card
+T297,C1005,Coffee Maker,Home & Kitchen,4849,2,9698,2025-03-01,40,Male,Online,Debit Card
+T298,C1207,Running Shoes,Sports,6888,2,13776,2025-09-24,67,Male,Online,Cash
+T299,C1238,Sneakers,Clothing,5478,3,16434,2025-04-09,38,Male,Store,Credit Card
+T300,C1017,Running Shoes,Sports,6806,4,27224,2025-04-07,21,Female,Online,Cash
+T301,C1166,Smartwatch,Electronics,67718,4,270872,2025-11-04,46,Female,Store,Cash
+T302,C1214,Jeans,Clothing,1908,4,7632,2025-07-10,52,Male,Online,Cash
+T303,C1062,Face Wash,Beauty,1964,5,9820,2025-03-27,22,Female,Online,Credit Card
+T304,C1213,T-Shirt,Clothing,3108,2,6216,2025-11-10,56,Male,Online,UPI
+T305,C1209,Yoga Mat,Sports,7780,5,38900,2025-12-04,54,Male,Store,Cash
+T306,C1117,Headphones,Electronics,54544,4,218176,2025-07-10,38,Female,Store,Debit Card
+T307,C1221,Tablet,Electronics,25921,4,103684,2025-04-22,35,Female,Online,UPI
+T308,C1192,Badminton Racket,Sports,3893,2,7786,2025-01-21,59,Male,Online,UPI
+T309,C1097,Football,Sports,3591,1,3591,2025-05-09,19,Female,Store,UPI
+T310,C1034,Hoodie,Clothing,641,2,1282,2025-08-20,38,Female,Online,Debit Card
+T311,C1173,Jacket,Clothing,4426,1,4426,2025-03-20,34,Female,Online,Cash
+T312,C1249,Running Shoes,Sports,7483,1,7483,2025-03-28,54,Female,Online,Cash
+T313,C1232,Coffee Maker,Home & Kitchen,3956,5,19780,2025-06-01,34,Male,Store,UPI
+T314,C1235,Face Wash,Beauty,1874,4,7496,2025-07-30,24,Male,Store,Debit Card
+T315,C1081,Smartwatch,Electronics,77095,2,154190,2025-02-07,64,Female,Store,Cash
+T316,C1049,Jacket,Clothing,4239,1,4239,2025-11-25,19,Male,Store,Debit Card
+T317,C1114,Tablet,Electronics,7779,1,7779,2025-06-18,42,Female,Online,Credit Card
+T318,C1013,Hoodie,Clothing,2596,4,10384,2025-05-20,44,Female,Store,Credit Card
+T319,C1168,Cricket Bat,Sports,9903,4,39612,2025-08-14,28,Female,Online,UPI
+T320,C1158,Yoga Mat,Sports,6184,3,18552,2025-11-30,42,Female,Store,Cash
+T321,C1241,Badminton Racket,Sports,1085,1,1085,2025-05-02,49,Female,Online,Debit Card
+T322,C1136,Mixer,Home & Kitchen,1756,2,3512,2025-05-29,30,Female,Online,Credit Card
+T323,C1235,Face Wash,Beauty,846,4,3384,2025-08-12,28,Female,Store,Credit Card
+T324,C1050,Air Fryer,Home & Kitchen,4037,2,8074,2025-01-29,38,Male,Store,Debit Card
+T325,C1184,Perfume,Beauty,4282,4,17128,2025-10-05,60,Male,Online,UPI
+T326,C1111,Headphones,Electronics,9694,3,29082,2025-01-23,46,Female,Online,Cash
+T327,C1005,Smartwatch,Electronics,30606,2,61212,2025-07-05,33,Female,Online,Cash
+T328,C1098,Headphones,Electronics,83168,4,332672,2025-04-14,52,Female,Store,Credit Card
+T329,C1169,Coffee Maker,Home & Kitchen,3020,2,6040,2025-10-29,56,Male,Online,Credit Card
+T330,C1012,Cricket Bat,Sports,5532,1,5532,2025-03-27,59,Female,Store,Credit Card
+T331,C1247,Football,Sports,1437,1,1437,2025-01-20,28,Female,Online,Debit Card
+T332,C1020,T-Shirt,Clothing,4295,3,12885,2025-04-11,21,Male,Online,Cash
+T333,C1232,Hoodie,Clothing,1413,3,4239,2025-06-03,54,Female,Online,Credit Card
+T334,C1173,Jeans,Clothing,2852,2,5704,2025-02-07,63,Female,Store,UPI
+T335,C1186,Badminton Racket,Sports,2963,5,14815,2025-01-14,20,Female,Online,Cash
+T336,C1060,Badminton Racket,Sports,4359,2,8718,2025-06-07,35,Male,Online,Cash
+T337,C1230,Running Shoes,Sports,3790,3,11370,2025-06-01,62,Female,Store,Credit Card
+T338,C1225,Tablet,Electronics,11058,5,55290,2025-08-16,47,Male,Online,Debit Card
+T339,C1057,Yoga Mat,Sports,1230,4,4920,2025-04-23,45,Male,Online,Debit Card
+T340,C1198,Air Fryer,Home & Kitchen,11140,4,44560,2025-05-28,65,Male,Online,Debit Card
+T341,C1069,Perfume,Beauty,2325,4,9300,2025-03-16,56,Male,Store,Cash
+T342,C1118,Badminton Racket,Sports,8729,2,17458,2025-09-16,30,Male,Online,Credit Card
+T343,C1035,Air Fryer,Home & Kitchen,3257,1,3257,2025-12-31,68,Male,Online,Credit Card
+T344,C1074,Face Wash,Beauty,4876,5,24380,2025-11-16,54,Female,Online,UPI
+T345,C1129,Smartwatch,Electronics,27001,4,108004,2025-05-06,56,Male,Store,Debit Card
+T346,C1057,Tablet,Electronics,43621,1,43621,2025-07-01,63,Female,Store,Cash
+T347,C1163,Badminton Racket,Sports,7268,4,29072,2025-04-16,47,Female,Store,Debit Card
+T348,C1217,Face Wash,Beauty,831,2,1662,2025-12-02,33,Female,Online,Credit Card
+T349,C1084,Air Fryer,Home & Kitchen,1081,4,4324,2025-11-25,62,Female,Store,Debit Card
+T350,C1007,Yoga Mat,Sports,2697,3,8091,2025-01-21,21,Female,Online,Debit Card
+T351,C1176,T-Shirt,Clothing,1822,2,3644,2025-06-09,28,Female,Store,Debit Card
+T352,C1069,Jeans,Clothing,1849,2,3698,2025-05-22,54,Female,Online,Credit Card
+T353,C1128,Headphones,Electronics,35321,5,176605,2025-11-01,36,Male,Online,UPI
+T354,C1234,Mixer,Home & Kitchen,7088,1,7088,2025-06-10,67,Male,Store,Debit Card
+T355,C1028,Jeans,Clothing,997,1,997,2025-03-22,41,Male,Online,Credit Card
+T356,C1098,Coffee Maker,Home & Kitchen,7066,1,7066,2025-01-17,51,Female,Store,Credit Card
+T357,C1066,Laptop,Electronics,48745,5,243725,2025-01-05,19,Female,Store,UPI
+T358,C1239,Hoodie,Clothing,497,3,1491,2025-05-05,56,Female,Store,Cash
+T359,C1063,Jacket,Clothing,5813,4,23252,2025-02-28,27,Male,Store,Debit Card
+T360,C1116,Football,Sports,5455,5,27275,2025-01-20,43,Male,Store,Credit Card
+T361,C1155,Perfume,Beauty,2991,5,14955,2025-03-20,39,Female,Store,Credit Card
+T362,C1248,Sneakers,Clothing,2505,4,10020,2025-01-26,66,Male,Store,UPI
+T363,C1167,Headphones,Electronics,43751,4,175004,2025-04-07,59,Female,Online,Credit Card
+T364,C1011,Badminton Racket,Sports,7144,3,21432,2025-06-27,60,Male,Online,Debit Card
+T365,C1055,Mixer,Home & Kitchen,507,4,2028,2025-10-24,53,Male,Online,Cash
+T366,C1007,Sneakers,Clothing,5054,2,10108,2025-02-11,37,Female,Store,Credit Card
+T367,C1230,Cricket Bat,Sports,6930,5,34650,2025-09-16,44,Female,Online,Cash
+T368,C1198,Laptop,Electronics,85920,5,429600,2025-06-25,60,Male,Store,Credit Card
+T369,C1119,Face Wash,Beauty,1981,3,5943,2025-02-01,26,Female,Online,Credit Card
+T370,C1156,Cricket Bat,Sports,5648,5,28240,2025-01-21,47,Male,Store,Cash
+T371,C1097,T-Shirt,Clothing,1929,3,5787,2025-09-04,44,Male,Online,Debit Card
+T372,C1230,Tablet,Electronics,25017,5,125085,2025-08-15,45,Male,Online,Cash
+T373,C1175,Yoga Mat,Sports,1045,3,3135,2025-03-01,61,Male,Online,Credit Card
+T374,C1076,Mixer,Home & Kitchen,10591,1,10591,2025-08-01,41,Female,Store,Debit Card
+T375,C1163,Cricket Bat,Sports,3748,4,14992,2025-09-05,43,Female,Online,UPI
+T376,C1128,Badminton Racket,Sports,6850,2,13700,2025-11-10,28,Male,Online,Cash
+T377,C1033,Football,Sports,7380,4,29520,2025-05-19,47,Male,Online,Debit Card
+T378,C1201,Badminton Racket,Sports,6449,2,12898,2025-09-05,45,Male,Online,Credit Card
+T379,C1191,Badminton Racket,Sports,6544,3,19632,2025-01-04,42,Male,Store,Debit Card
+T380,C1145,Headphones,Electronics,10328,5,51640,2025-10-29,69,Female,Store,Cash
+T381,C1225,Jeans,Clothing,792,3,2376,2025-09-09,30,Male,Store,Debit Card
+T382,C1142,T-Shirt,Clothing,2854,3,8562,2025-04-01,51,Female,Store,Credit Card
+T383,C1084,Tablet,Electronics,87316,3,261948,2025-05-27,47,Male,Store,Debit Card
+T384,C1083,Football,Sports,8872,2,17744,2025-04-12,40,Female,Store,UPI
+T385,C1071,Face Wash,Beauty,3146,2,6292,2025-10-02,26,Female,Store,UPI
+T386,C1120,Face Wash,Beauty,3010,4,12040,2025-05-01,36,Male,Store,Credit Card
+T387,C1064,T-Shirt,Clothing,1860,5,9300,2025-06-13,57,Male,Store,UPI
+T388,C1233,Laptop,Electronics,77975,4,311900,2025-03-30,31,Male,Online,Debit Card
+T389,C1105,Face Wash,Beauty,2469,1,2469,2025-07-15,21,Female,Store,Credit Card
+T390,C1035,Face Wash,Beauty,4208,5,21040,2025-03-03,66,Female,Store,Cash
+T391,C1101,Coffee Maker,Home & Kitchen,10277,5,51385,2025-09-12,38,Male,Store,Cash
+T392,C1226,Headphones,Electronics,8651,1,8651,2025-07-20,26,Female,Online,UPI
+T393,C1147,Laptop,Electronics,32974,4,131896,2025-03-17,63,Male,Online,UPI
+T394,C1179,Badminton Racket,Sports,7148,5,35740,2025-11-03,55,Female,Online,UPI
+T395,C1067,Tablet,Electronics,19030,4,76120,2025-01-28,21,Female,Store,UPI
+T396,C1166,Mixer,Home & Kitchen,693,2,1386,2025-12-13,58,Male,Store,Debit Card
+T397,C1218,T-Shirt,Clothing,2661,1,2661,2025-07-29,34,Male,Store,Credit Card
+T398,C1241,Jacket,Clothing,5986,4,23944,2025-12-28,18,Male,Online,UPI
+T399,C1189,Headphones,Electronics,74669,3,224007,2025-08-25,37,Female,Online,UPI
+T400,C1097,T-Shirt,Clothing,2496,1,2496,2025-07-09,25,Male,Store,Cash
+T401,C1233,Jeans,Clothing,740,5,3700,2025-07-11,59,Male,Store,Credit Card
+T402,C1051,Sneakers,Clothing,5863,5,29315,2025-11-01,58,Male,Store,UPI
+T403,C1147,Jeans,Clothing,582,1,582,2025-02-08,30,Female,Online,Credit Card
+T404,C1072,Coffee Maker,Home & Kitchen,1856,5,9280,2025-01-01,57,Female,Online,Cash
+T405,C1045,Jacket,Clothing,3404,5,17020,2025-04-19,29,Male,Store,UPI
+T406,C1158,Jeans,Clothing,1387,2,2774,2025-01-08,42,Male,Store,Debit Card
+T407,C1068,Air Fryer,Home & Kitchen,7074,1,7074,2025-06-24,37,Female,Store,Credit Card
+T408,C1113,Laptop,Electronics,25795,2,51590,2025-05-27,64,Female,Store,Cash
+T409,C1191,Laptop,Electronics,17515,2,35030,2025-08-31,32,Male,Online,Credit Card
+T410,C1210,Sneakers,Clothing,601,2,1202,2025-11-03,28,Male,Store,Credit Card
+T411,C1002,Running Shoes,Sports,7944,4,31776,2025-09-16,37,Female,Online,UPI
+T412,C1235,T-Shirt,Clothing,786,2,1572,2025-03-22,58,Female,Store,Debit Card
+T413,C1223,Laptop,Electronics,49238,5,246190,2025-12-23,38,Female,Online,Debit Card
+T414,C1119,T-Shirt,Clothing,2219,5,11095,2025-04-17,35,Female,Online,UPI
+T415,C1195,Sneakers,Clothing,4420,2,8840,2025-01-30,61,Female,Store,Debit Card
+T416,C1160,Mixer,Home & Kitchen,7490,1,7490,2025-03-04,40,Female,Online,Cash
+T417,C1056,Tablet,Electronics,86720,2,173440,2025-06-05,54,Male,Store,UPI
+T418,C1220,Laptop,Electronics,85326,4,341304,2025-10-02,46,Female,Store,Credit Card
+T419,C1064,Headphones,Electronics,44814,3,134442,2025-05-06,28,Male,Online,Credit Card
+T420,C1065,Smartwatch,Electronics,80039,2,160078,2025-06-25,69,Female,Store,Credit Card
+T421,C1067,Tablet,Electronics,6544,5,32720,2025-11-21,47,Female,Store,Debit Card
+T422,C1192,Coffee Maker,Home & Kitchen,5152,4,20608,2025-06-03,44,Female,Store,Debit Card
+T423,C1229,Hoodie,Clothing,4034,2,8068,2025-09-19,32,Male,Store,Credit Card
+T424,C1018,Smartwatch,Electronics,72649,4,290596,2025-12-23,52,Male,Store,Cash
+T425,C1109,Sneakers,Clothing,2816,5,14080,2025-03-18,64,Female,Store,UPI
+T426,C1162,Cricket Bat,Sports,9893,4,39572,2025-03-10,54,Male,Online,UPI
+T427,C1160,Air Fryer,Home & Kitchen,5416,3,16248,2025-12-09,68,Male,Store,Credit Card
+T428,C1044,Air Fryer,Home & Kitchen,8230,2,16460,2025-12-07,63,Male,Store,UPI
+T429,C1111,Coffee Maker,Home & Kitchen,858,4,3432,2025-04-02,41,Male,Online,UPI
+T430,C1214,Smartphone,Electronics,27562,4,110248,2025-09-30,52,Female,Store,Cash
+T431,C1164,Running Shoes,Sports,9590,5,47950,2025-01-08,45,Male,Online,UPI
+T432,C1047,Running Shoes,Sports,6607,3,19821,2025-04-27,51,Male,Store,UPI
+T433,C1209,Mixer,Home & Kitchen,10985,5,54925,2025-09-03,28,Male,Store,UPI
+T434,C1154,Badminton Racket,Sports,2360,2,4720,2025-01-12,23,Male,Online,Debit Card
+T435,C1228,Cricket Bat,Sports,6267,4,25068,2025-12-18,23,Male,Online,Credit Card
+T436,C1192,T-Shirt,Clothing,2010,1,2010,2025-08-04,40,Male,Online,Debit Card
+T437,C1179,Running Shoes,Sports,4225,1,4225,2025-06-28,31,Male,Store,Cash
+T438,C1072,Perfume,Beauty,4022,4,16088,2025-12-31,52,Female,Online,UPI
+T439,C1147,Badminton Racket,Sports,7484,1,7484,2025-12-03,66,Male,Store,Cash
+T440,C1031,T-Shirt,Clothing,5842,3,17526,2025-11-21,30,Male,Store,UPI
+T441,C1042,Cricket Bat,Sports,1537,5,7685,2025-08-02,60,Male,Store,Credit Card
+T442,C1057,Cricket Bat,Sports,1627,2,3254,2025-06-18,41,Male,Store,Credit Card
+T443,C1030,Perfume,Beauty,3434,3,10302,2025-09-21,43,Male,Store,Debit Card
+T444,C1037,Jeans,Clothing,5074,1,5074,2025-10-19,42,Male,Online,Debit Card
+T445,C1035,Air Fryer,Home & Kitchen,10459,5,52295,2025-07-07,26,Male,Online,Cash
+T446,C1158,Smartphone,Electronics,15838,1,15838,2025-10-17,63,Female,Store,Cash
+T447,C1173,T-Shirt,Clothing,1498,3,4494,2025-03-13,20,Female,Store,UPI
+T448,C1145,Smartphone,Electronics,68428,5,342140,2025-03-24,55,Female,Store,Cash
+T449,C1111,Smartphone,Electronics,57499,4,229996,2025-11-18,19,Female,Online,Cash
+T450,C1065,Smartphone,Electronics,69287,3,207861,2025-04-28,46,Male,Online,Debit Card
+T451,C1057,Football,Sports,6189,5,30945,2025-09-26,38,Male,Online,Debit Card
+T452,C1148,Football,Sports,582,2,1164,2025-01-10,53,Female,Store,Cash
+T453,C1191,Yoga Mat,Sports,6955,4,27820,2025-02-22,41,Male,Store,Credit Card
+T454,C1248,Tablet,Electronics,57178,2,114356,2025-01-12,48,Female,Store,Credit Card
+T455,C1223,Smartphone,Electronics,49566,3,148698,2025-12-27,29,Male,Online,UPI
+T456,C1209,Football,Sports,7561,5,37805,2025-06-03,35,Female,Store,Credit Card
+T457,C1065,Yoga Mat,Sports,6456,5,32280,2025-11-16,46,Female,Online,UPI
+T458,C1143,Coffee Maker,Home & Kitchen,4732,3,14196,2025-06-11,61,Female,Store,Credit Card
+T459,C1165,Running Shoes,Sports,9698,1,9698,2025-07-17,65,Female,Store,Debit Card
+T460,C1138,Football,Sports,9062,2,18124,2025-11-12,44,Male,Store,Debit Card
+T461,C1108,Perfume,Beauty,4318,5,21590,2025-08-23,30,Male,Online,Cash
+T462,C1211,Coffee Maker,Home & Kitchen,6404,4,25616,2025-10-08,47,Male,Online,Cash
+T463,C1041,Running Shoes,Sports,1716,2,3432,2025-04-11,65,Male,Store,Cash
+T464,C1124,Headphones,Electronics,67855,2,135710,2025-09-13,31,Male,Store,UPI
+T465,C1130,Jeans,Clothing,4472,5,22360,2025-07-29,54,Male,Store,Debit Card
+T466,C1087,Cricket Bat,Sports,4824,3,14472,2025-11-06,39,Male,Store,UPI
+T467,C1003,Air Fryer,Home & Kitchen,2272,2,4544,2025-08-04,25,Male,Store,Credit Card
+T468,C1100,T-Shirt,Clothing,1339,5,6695,2025-01-28,57,Female,Store,UPI
+T469,C1053,Coffee Maker,Home & Kitchen,2048,1,2048,2025-02-18,27,Male,Store,Debit Card
+T470,C1081,Hoodie,Clothing,5053,5,25265,2025-06-14,55,Female,Store,Credit Card
+T471,C1116,Tablet,Electronics,32681,3,98043,2025-04-21,55,Male,Store,Credit Card
+T472,C1119,Coffee Maker,Home & Kitchen,9431,2,18862,2025-07-07,43,Female,Online,Cash
+T473,C1233,Cricket Bat,Sports,3145,4,12580,2025-10-10,59,Male,Online,Credit Card
+T474,C1244,Smartphone,Electronics,30916,5,154580,2025-06-02,50,Male,Store,Debit Card
+T475,C1160,Mixer,Home & Kitchen,1219,3,3657,2025-05-15,53,Male,Online,UPI
+T476,C1132,Coffee Maker,Home & Kitchen,7419,1,7419,2025-08-05,25,Male,Store,Debit Card
+T477,C1079,Jacket,Clothing,594,5,2970,2025-06-06,51,Female,Store,UPI
+T478,C1056,Mixer,Home & Kitchen,9933,4,39732,2025-03-31,57,Male,Online,UPI
+T479,C1185,Badminton Racket,Sports,7083,1,7083,2025-01-17,43,Female,Online,Credit Card
+T480,C1203,Hoodie,Clothing,860,5,4300,2025-12-26,21,Male,Online,Cash
+T481,C1047,Coffee Maker,Home & Kitchen,1572,4,6288,2025-04-12,41,Female,Store,UPI
+T482,C1052,Sneakers,Clothing,5181,2,10362,2025-10-09,66,Female,Online,Cash
+T483,C1021,Sneakers,Clothing,2695,1,2695,2025-08-14,32,Female,Online,Credit Card
+T484,C1222,Face Wash,Beauty,2700,2,5400,2025-03-19,27,Female,Online,Debit Card
+T485,C1161,Headphones,Electronics,38653,5,193265,2025-01-08,61,Male,Online,Cash
+T486,C1070,Football,Sports,6874,5,34370,2025-02-19,28,Male,Store,Cash
+T487,C1090,Sneakers,Clothing,5075,3,15225,2025-09-09,65,Female,Store,Debit Card
+T488,C1102,Mixer,Home & Kitchen,5758,5,28790,2025-03-30,35,Male,Online,Debit Card
+T489,C1245,Yoga Mat,Sports,9875,4,39500,2025-10-12,51,Male,Online,Debit Card
+T490,C1222,Cricket Bat,Sports,6993,2,13986,2025-09-04,25,Male,Store,Cash
+T491,C1242,Tablet,Electronics,63869,1,63869,2025-02-08,34,Male,Store,Cash
+T492,C1170,Mixer,Home & Kitchen,2968,2,5936,2025-02-05,54,Female,Store,Cash
+T493,C1176,Coffee Maker,Home & Kitchen,8648,2,17296,2025-09-09,57,Female,Online,Cash
+T494,C1010,Smartwatch,Electronics,81850,1,81850,2025-12-15,20,Female,Online,UPI
+T495,C1093,Tablet,Electronics,24616,3,73848,2025-02-03,68,Male,Store,UPI
+T496,C1103,Jeans,Clothing,4224,3,12672,2025-04-27,47,Male,Online,UPI
+T497,C1082,Face Wash,Beauty,4569,5,22845,2025-04-26,46,Female,Online,Debit Card
+T498,C1087,Tablet,Electronics,52960,2,105920,2025-09-14,43,Male,Store,Cash
+T499,C1145,Hoodie,Clothing,4810,3,14430,2025-02-10,58,Male,Store,UPI
+T500,C1056,Smartphone,Electronics,65303,5,326515,2025-08-09,21,Male,Store,Debit Card
+T501,C1188,Running Shoes,Sports,1060,3,3180,2025-03-17,43,Male,Online,UPI
+T502,C1023,Jeans,Clothing,2438,2,4876,2025-02-09,22,Male,Store,Cash
+T503,C1112,Hoodie,Clothing,483,2,966,2025-04-26,62,Male,Store,UPI
+T504,C1195,Running Shoes,Sports,1014,4,4056,2025-11-20,32,Male,Online,UPI
+T505,C1234,Perfume,Beauty,3554,5,17770,2025-06-13,51,Male,Store,Cash
+T506,C1095,Tablet,Electronics,62050,2,124100,2025-06-30,69,Male,Online,UPI
+T507,C1168,Sneakers,Clothing,1224,5,6120,2025-09-06,23,Male,Online,Credit Card
+T508,C1047,Jeans,Clothing,3556,5,17780,2025-07-31,20,Female,Online,Credit Card
+T509,C1169,Tablet,Electronics,78587,4,314348,2025-02-07,68,Male,Store,Debit Card
+T510,C1112,Smartwatch,Electronics,23212,2,46424,2025-11-02,47,Female,Online,UPI
+T511,C1022,Running Shoes,Sports,605,1,605,2025-02-16,53,Male,Store,Cash
+T512,C1162,Jacket,Clothing,671,3,2013,2025-10-14,59,Female,Store,Debit Card
+T513,C1048,Sneakers,Clothing,1376,3,4128,2025-01-10,39,Male,Online,Cash
+T514,C1217,Badminton Racket,Sports,552,3,1656,2025-12-23,55,Male,Online,Debit Card
+T515,C1167,Running Shoes,Sports,1504,1,1504,2025-03-29,19,Female,Online,Cash
+T516,C1221,T-Shirt,Clothing,3472,2,6944,2025-06-16,34,Female,Online,UPI
+T517,C1076,Sneakers,Clothing,5660,4,22640,2025-11-04,20,Male,Online,UPI
+T518,C1015,Cricket Bat,Sports,574,5,2870,2025-07-02,18,Male,Online,Credit Card
+T519,C1078,Tablet,Electronics,51519,4,206076,2025-12-05,60,Female,Online,Cash
+T520,C1083,Laptop,Electronics,51245,2,102490,2025-07-08,21,Female,Online,UPI
+T521,C1027,T-Shirt,Clothing,1392,1,1392,2025-06-17,36,Male,Online,UPI
+T522,C1123,Cricket Bat,Sports,789,5,3945,2025-08-28,52,Male,Store,Cash
+T523,C1002,Coffee Maker,Home & Kitchen,1981,1,1981,2025-05-28,48,Female,Store,Debit Card
+T524,C1195,Running Shoes,Sports,4808,5,24040,2025-11-24,24,Female,Store,Debit Card
+T525,C1124,Yoga Mat,Sports,8351,3,25053,2025-06-28,35,Female,Store,Cash
+T526,C1145,Laptop,Electronics,912,4,3648,2025-05-06,28,Male,Online,Cash
+T527,C1120,T-Shirt,Clothing,3568,5,17840,2025-02-26,45,Female,Online,Credit Card
+T528,C1084,Laptop,Electronics,82738,5,413690,2025-02-16,56,Female,Online,UPI
+T529,C1024,Jeans,Clothing,4710,3,14130,2025-05-08,46,Female,Store,UPI
+T530,C1202,Yoga Mat,Sports,3161,1,3161,2025-02-26,25,Female,Store,UPI
+T531,C1082,Football,Sports,917,2,1834,2025-11-21,45,Female,Online,UPI
+T532,C1098,Badminton Racket,Sports,4202,1,4202,2025-07-23,24,Male,Online,Credit Card
+T533,C1154,Headphones,Electronics,41967,2,83934,2025-05-04,41,Female,Store,Credit Card
+T534,C1227,Coffee Maker,Home & Kitchen,2018,4,8072,2025-02-10,37,Female,Online,Cash
+T535,C1225,Perfume,Beauty,3049,3,9147,2025-05-14,32,Male,Store,UPI
+T536,C1154,Cricket Bat,Sports,4595,3,13785,2025-09-15,46,Female,Online,Debit Card
+T537,C1248,Hoodie,Clothing,5316,3,15948,2025-05-30,68,Female,Online,Debit Card
+T538,C1007,Tablet,Electronics,85181,1,85181,2025-10-11,18,Male,Online,Cash
+T539,C1237,Football,Sports,7704,4,30816,2025-03-24,18,Female,Store,UPI
+T540,C1163,Face Wash,Beauty,4913,1,4913,2025-11-26,67,Male,Store,Credit Card
+T541,C1132,Badminton Racket,Sports,8074,5,40370,2025-05-07,42,Female,Online,Debit Card
+T542,C1178,Sneakers,Clothing,3362,4,13448,2025-09-30,60,Male,Online,Credit Card
+T543,C1063,Badminton Racket,Sports,8960,5,44800,2025-05-31,64,Female,Store,Debit Card
+T544,C1061,Laptop,Electronics,88856,5,444280,2025-10-26,65,Female,Store,Debit Card
+T545,C1048,Yoga Mat,Sports,4301,2,8602,2025-06-10,28,Female,Store,Credit Card
+T546,C1202,Hoodie,Clothing,1761,3,5283,2025-06-13,30,Female,Store,Debit Card
+T547,C1209,T-Shirt,Clothing,1414,3,4242,2025-08-26,25,Male,Store,Credit Card
+T548,C1097,Sneakers,Clothing,2956,3,8868,2025-12-11,56,Male,Store,Cash
+T549,C1107,Smartwatch,Electronics,87464,2,174928,2025-02-25,38,Female,Online,Credit Card
+T550,C1018,T-Shirt,Clothing,2441,4,9764,2025-04-24,60,Male,Online,Cash
+T551,C1135,Smartphone,Electronics,82782,3,248346,2025-07-05,30,Female,Store,Cash
+T552,C1166,Coffee Maker,Home & Kitchen,10827,4,43308,2025-07-26,18,Male,Online,Credit Card
+T553,C1133,Yoga Mat,Sports,8712,1,8712,2025-04-12,55,Male,Store,UPI
+T554,C1047,Football,Sports,3161,4,12644,2025-01-21,67,Male,Online,UPI
+T555,C1027,Badminton Racket,Sports,1202,4,4808,2025-03-10,18,Female,Store,Cash
+T556,C1055,Hoodie,Clothing,4006,1,4006,2025-10-04,69,Female,Online,UPI
+T557,C1058,Face Wash,Beauty,2791,5,13955,2025-02-05,63,Female,Online,Credit Card
+T558,C1035,Jeans,Clothing,3295,1,3295,2025-08-01,26,Female,Online,UPI
+T559,C1076,Jeans,Clothing,1061,1,1061,2025-04-28,22,Female,Online,UPI
+T560,C1160,Cricket Bat,Sports,7368,1,7368,2025-10-12,64,Male,Online,UPI
+T561,C1134,Face Wash,Beauty,4790,5,23950,2025-09-04,57,Male,Store,UPI
+T562,C1206,Mixer,Home & Kitchen,11781,1,11781,2025-07-28,60,Female,Store,Debit Card
+T563,C1206,Hoodie,Clothing,3467,3,10401,2025-06-11,26,Female,Store,Debit Card
+T564,C1072,Jeans,Clothing,2694,3,8082,2025-04-28,32,Female,Store,Cash
+T565,C1195,Coffee Maker,Home & Kitchen,6128,1,6128,2025-06-24,50,Female,Online,Debit Card
+T566,C1162,Hoodie,Clothing,5497,1,5497,2025-12-20,68,Male,Store,UPI
+T567,C1157,Cricket Bat,Sports,638,5,3190,2025-02-17,66,Male,Store,UPI
+T568,C1049,Jeans,Clothing,3087,2,6174,2025-01-17,24,Male,Online,Credit Card
+T569,C1062,Headphones,Electronics,5926,2,11852,2025-11-01,56,Male,Online,UPI
+T570,C1235,Football,Sports,6714,1,6714,2025-09-08,20,Male,Online,UPI
+T571,C1080,Cricket Bat,Sports,4293,4,17172,2025-03-14,18,Male,Online,Credit Card
+T572,C1083,Sneakers,Clothing,2946,4,11784,2025-04-28,58,Male,Store,UPI
+T573,C1030,Running Shoes,Sports,5457,1,5457,2025-09-28,20,Male,Online,Credit Card
+T574,C1239,Jacket,Clothing,2882,2,5764,2025-08-12,25,Female,Store,Cash
+T575,C1077,Jacket,Clothing,2739,4,10956,2025-04-26,66,Male,Store,Credit Card
+T576,C1003,Air Fryer,Home & Kitchen,8681,4,34724,2025-08-09,59,Male,Online,Debit Card
+T577,C1075,Face Wash,Beauty,4335,3,13005,2025-03-03,21,Male,Store,Cash
+T578,C1137,Coffee Maker,Home & Kitchen,6739,3,20217,2025-08-23,19,Female,Store,UPI
+T579,C1112,Smartphone,Electronics,56412,1,56412,2025-05-16,26,Female,Store,UPI
+T580,C1044,Air Fryer,Home & Kitchen,10545,2,21090,2025-07-28,52,Male,Online,Cash
+T581,C1144,Jeans,Clothing,3563,1,3563,2025-08-08,23,Male,Store,UPI
+T582,C1062,Headphones,Electronics,82271,2,164542,2025-10-19,59,Male,Online,Credit Card
+T583,C1104,Hoodie,Clothing,3291,2,6582,2025-09-26,28,Female,Store,Cash
+T584,C1139,Jacket,Clothing,1354,2,2708,2025-04-04,47,Female,Store,Cash
+T585,C1023,Perfume,Beauty,2840,2,5680,2025-01-02,67,Female,Online,Credit Card
+T586,C1166,Yoga Mat,Sports,7885,1,7885,2025-03-03,55,Male,Online,Debit Card
+T587,C1110,Headphones,Electronics,23388,1,23388,2025-06-22,49,Female,Online,Credit Card
+T588,C1207,Air Fryer,Home & Kitchen,1422,4,5688,2025-10-05,27,Male,Online,Debit Card
+T589,C1136,Tablet,Electronics,24831,4,99324,2025-12-23,37,Female,Online,Cash
+T590,C1120,Laptop,Electronics,4548,5,22740,2025-04-06,52,Male,Online,Cash
+T591,C1157,Face Wash,Beauty,889,1,889,2025-02-25,63,Male,Store,Cash
+T592,C1225,Jeans,Clothing,4599,5,22995,2025-08-18,35,Female,Store,Debit Card
+T593,C1091,T-Shirt,Clothing,3135,3,9405,2025-10-03,29,Male,Online,Debit Card
+T594,C1013,Hoodie,Clothing,1874,5,9370,2025-12-13,52,Male,Online,Cash
+T595,C1158,Football,Sports,3250,4,13000,2025-07-06,38,Male,Store,Debit Card
+T596,C1114,Cricket Bat,Sports,7044,3,21132,2025-03-27,55,Male,Store,Cash
+T597,C1099,Football,Sports,1391,4,5564,2025-07-02,32,Female,Online,Credit Card
+T598,C1061,Headphones,Electronics,47087,5,235435,2025-12-07,27,Male,Online,Cash
+T599,C1211,Running Shoes,Sports,3921,2,7842,2025-03-02,60,Male,Store,Cash
+T600,C1133,Coffee Maker,Home & Kitchen,6241,2,12482,2025-07-02,45,Male,Online,Debit Card
+T601,C1212,Running Shoes,Sports,6180,4,24720,2025-02-19,21,Female,Online,Credit Card
+T602,C1055,T-Shirt,Clothing,1437,3,4311,2025-10-15,28,Male,Store,Debit Card
+T603,C1059,Yoga Mat,Sports,7431,3,22293,2025-10-04,61,Male,Online,UPI
+T604,C1193,Sneakers,Clothing,5701,2,11402,2025-12-05,18,Female,Online,Cash
+T605,C1174,Perfume,Beauty,815,4,3260,2025-08-02,67,Male,Online,UPI
+T606,C1207,Face Wash,Beauty,3705,4,14820,2025-04-22,50,Male,Online,Debit Card
+T607,C1090,Mixer,Home & Kitchen,1819,4,7276,2025-08-10,55,Male,Store,Cash
+T608,C1182,Air Fryer,Home & Kitchen,3520,2,7040,2025-10-20,66,Female,Store,Cash
+T609,C1040,Coffee Maker,Home & Kitchen,8635,4,34540,2025-10-26,39,Female,Store,UPI
+T610,C1007,Football,Sports,5135,4,20540,2025-04-26,33,Female,Store,Debit Card
+T611,C1088,Cricket Bat,Sports,7612,3,22836,2025-08-27,65,Male,Online,Debit Card
+T612,C1119,Sneakers,Clothing,4674,4,18696,2025-10-20,59,Male,Online,Debit Card
+T613,C1053,Jacket,Clothing,1630,5,8150,2025-08-10,63,Female,Store,Debit Card
+T614,C1098,Mixer,Home & Kitchen,4356,2,8712,2025-12-16,46,Male,Store,Debit Card
+T615,C1102,Yoga Mat,Sports,1494,4,5976,2025-02-27,51,Male,Store,Credit Card
+T616,C1040,Hoodie,Clothing,5059,5,25295,2025-03-25,20,Male,Store,UPI
+T617,C1192,Jacket,Clothing,5815,4,23260,2025-02-25,40,Female,Online,Credit Card
+T618,C1125,Jacket,Clothing,5612,4,22448,2025-05-18,56,Female,Online,Cash
+T619,C1192,Air Fryer,Home & Kitchen,4631,5,23155,2025-10-09,39,Female,Online,Credit Card
+T620,C1190,T-Shirt,Clothing,2830,2,5660,2025-01-31,28,Female,Store,Cash
+T621,C1112,Smartwatch,Electronics,48095,2,96190,2025-05-08,63,Female,Online,Cash
+T622,C1009,Football,Sports,3536,2,7072,2025-11-09,59,Male,Store,Credit Card
+T623,C1167,Air Fryer,Home & Kitchen,5708,2,11416,2025-04-16,32,Male,Online,Debit Card
+T624,C1082,Air Fryer,Home & Kitchen,11588,1,11588,2025-02-09,37,Female,Online,UPI
+T625,C1227,Air Fryer,Home & Kitchen,946,4,3784,2025-02-07,36,Female,Online,UPI
+T626,C1141,Cricket Bat,Sports,7585,4,30340,2025-07-06,42,Female,Store,Cash
+T627,C1188,Air Fryer,Home & Kitchen,9540,1,9540,2025-08-17,23,Male,Online,UPI
+T628,C1187,Face Wash,Beauty,1830,4,7320,2025-02-08,25,Male,Online,Cash
+T629,C1237,T-Shirt,Clothing,3662,4,14648,2025-02-22,47,Male,Store,Debit Card
+T630,C1206,Smartphone,Electronics,9397,5,46985,2025-07-19,25,Female,Online,Credit Card
+T631,C1069,Headphones,Electronics,87202,3,261606,2025-03-17,66,Male,Online,UPI
+T632,C1127,Badminton Racket,Sports,3816,1,3816,2025-10-14,38,Female,Store,Debit Card
+T633,C1244,Tablet,Electronics,54572,5,272860,2025-05-07,59,Female,Online,Cash
+T634,C1219,Air Fryer,Home & Kitchen,836,4,3344,2025-09-30,41,Female,Store,Credit Card
+T635,C1156,Air Fryer,Home & Kitchen,7946,3,23838,2025-04-21,30,Male,Online,UPI
+T636,C1103,Cricket Bat,Sports,1286,2,2572,2025-09-03,35,Male,Online,Credit Card
+T637,C1171,Air Fryer,Home & Kitchen,7251,2,14502,2025-08-09,63,Female,Store,UPI
+T638,C1108,Cricket Bat,Sports,7392,3,22176,2025-04-26,32,Male,Store,Credit Card
+T639,C1001,Badminton Racket,Sports,7469,1,7469,2025-11-09,69,Male,Store,Debit Card
+T640,C1140,Mixer,Home & Kitchen,3286,3,9858,2025-04-08,33,Male,Store,Debit Card
+T641,C1107,Laptop,Electronics,20492,1,20492,2025-03-13,44,Female,Store,UPI
+T642,C1225,Jacket,Clothing,3513,3,10539,2025-05-19,56,Male,Online,UPI
+T643,C1054,Jacket,Clothing,3878,2,7756,2025-04-12,54,Male,Store,Debit Card
+T644,C1149,Jacket,Clothing,1656,1,1656,2025-08-15,68,Male,Store,UPI
+T645,C1147,Running Shoes,Sports,9678,3,29034,2025-12-25,45,Male,Online,Credit Card
+T646,C1214,T-Shirt,Clothing,1451,2,2902,2025-02-07,54,Male,Store,Cash
+T647,C1247,Football,Sports,2505,5,12525,2025-11-04,49,Male,Online,Cash
+T648,C1040,Face Wash,Beauty,1578,3,4734,2025-10-11,18,Female,Store,Cash
+T649,C1031,Laptop,Electronics,56555,2,113110,2025-05-17,64,Female,Store,Cash
+T650,C1118,Face Wash,Beauty,2996,1,2996,2025-10-17,20,Female,Store,Credit Card
+T651,C1005,Hoodie,Clothing,1496,2,2992,2025-12-26,27,Male,Online,Cash
+T652,C1044,Headphones,Electronics,20538,1,20538,2025-09-28,52,Female,Online,UPI
+T653,C1176,Perfume,Beauty,2598,2,5196,2025-12-06,29,Male,Store,Debit Card
+T654,C1217,Cricket Bat,Sports,528,1,528,2025-03-07,47,Male,Store,UPI
+T655,C1116,Badminton Racket,Sports,5952,4,23808,2025-08-02,38,Female,Online,UPI
+T656,C1025,T-Shirt,Clothing,3614,2,7228,2025-09-07,63,Female,Online,Credit Card
+T657,C1091,Smartwatch,Electronics,36240,3,108720,2025-04-22,61,Male,Online,Cash
+T658,C1040,Yoga Mat,Sports,4459,3,13377,2025-08-02,57,Male,Store,Debit Card
+T659,C1122,Yoga Mat,Sports,4840,4,19360,2025-07-19,28,Male,Store,UPI
+T660,C1073,Air Fryer,Home & Kitchen,2216,5,11080,2025-02-25,62,Female,Online,UPI
+T661,C1076,Cricket Bat,Sports,8016,4,32064,2025-11-03,47,Male,Store,Cash
+T662,C1186,Jeans,Clothing,2025,5,10125,2025-08-08,47,Male,Online,Debit Card
+T663,C1040,Perfume,Beauty,4969,4,19876,2025-12-11,29,Male,Online,Credit Card
+T664,C1079,Smartwatch,Electronics,76686,1,76686,2025-11-17,59,Female,Store,UPI
+T665,C1017,Football,Sports,4517,3,13551,2025-07-27,25,Female,Online,UPI
+T666,C1014,Air Fryer,Home & Kitchen,9348,1,9348,2025-03-19,62,Female,Online,Credit Card
+T667,C1245,Perfume,Beauty,271,5,1355,2025-05-23,44,Male,Online,Debit Card
+T668,C1026,Headphones,Electronics,10075,5,50375,2025-02-27,66,Male,Online,Credit Card
+T669,C1242,Perfume,Beauty,3276,2,6552,2025-01-20,23,Female,Online,Cash
+T670,C1044,Yoga Mat,Sports,7328,1,7328,2025-01-14,31,Male,Online,Cash
+T671,C1147,Perfume,Beauty,4314,3,12942,2025-08-27,61,Male,Online,Debit Card
+T672,C1061,Badminton Racket,Sports,2035,3,6105,2025-05-02,65,Female,Store,Cash
+T673,C1058,Football,Sports,1473,1,1473,2025-12-21,49,Female,Online,Credit Card
+T674,C1132,Face Wash,Beauty,2156,4,8624,2025-10-23,33,Female,Store,Credit Card
+T675,C1024,Air Fryer,Home & Kitchen,9999,5,49995,2025-07-13,48,Male,Store,Cash
+T676,C1108,Perfume,Beauty,4466,1,4466,2025-02-14,19,Female,Online,Cash
+T677,C1230,Running Shoes,Sports,4598,2,9196,2025-05-05,33,Male,Store,Credit Card
+T678,C1126,Yoga Mat,Sports,5716,5,28580,2025-08-09,56,Female,Store,Debit Card
+T679,C1238,Air Fryer,Home & Kitchen,3210,5,16050,2025-12-16,23,Female,Store,UPI
+T680,C1168,Mixer,Home & Kitchen,3575,5,17875,2025-01-06,49,Female,Store,Debit Card
+T681,C1191,Sneakers,Clothing,2164,2,4328,2025-07-31,23,Female,Store,Debit Card
+T682,C1041,Headphones,Electronics,4522,3,13566,2025-04-06,21,Male,Store,UPI
+T683,C1247,Running Shoes,Sports,1125,3,3375,2025-01-22,18,Female,Store,Cash
+T684,C1014,Coffee Maker,Home & Kitchen,1472,3,4416,2025-01-03,26,Female,Store,Debit Card
+T685,C1083,Laptop,Electronics,63793,1,63793,2025-09-08,58,Male,Online,Credit Card
+T686,C1206,Perfume,Beauty,3131,1,3131,2025-08-25,65,Male,Online,Credit Card
+T687,C1116,Hoodie,Clothing,1416,2,2832,2025-04-04,58,Male,Store,Debit Card
+T688,C1214,Cricket Bat,Sports,8305,2,16610,2025-04-09,28,Male,Online,UPI
+T689,C1210,Air Fryer,Home & Kitchen,11642,1,11642,2025-03-05,19,Female,Online,Credit Card
+T690,C1090,Coffee Maker,Home & Kitchen,9475,1,9475,2025-08-31,35,Male,Online,Debit Card
+T691,C1130,Cricket Bat,Sports,4986,2,9972,2025-03-17,30,Female,Online,Credit Card
+T692,C1063,Perfume,Beauty,2102,4,8408,2025-01-12,30,Female,Online,UPI
+T693,C1028,Football,Sports,4871,4,19484,2025-01-08,22,Female,Store,Cash
+T694,C1237,Perfume,Beauty,4371,5,21855,2025-05-31,33,Female,Store,Debit Card
+T695,C1175,Badminton Racket,Sports,3595,5,17975,2025-10-20,46,Male,Online,Cash
+T696,C1029,Face Wash,Beauty,4756,2,9512,2025-01-21,54,Male,Online,Cash
+T697,C1100,Badminton Racket,Sports,5333,4,21332,2025-08-12,33,Female,Online,Credit Card
+T698,C1100,Air Fryer,Home & Kitchen,2310,2,4620,2025-05-21,60,Female,Store,UPI
+T699,C1116,Badminton Racket,Sports,1331,1,1331,2025-08-19,68,Male,Store,Credit Card
+T700,C1082,Perfume,Beauty,3606,1,3606,2025-05-28,26,Female,Store,Credit Card
+T701,C1044,Smartwatch,Electronics,26291,3,78873,2025-06-14,39,Female,Store,UPI
+T702,C1222,Smartphone,Electronics,40360,2,80720,2025-04-05,24,Female,Online,Credit Card
+T703,C1032,Headphones,Electronics,77016,5,385080,2025-07-08,48,Male,Online,UPI
+T704,C1017,Smartphone,Electronics,21466,4,85864,2025-05-18,19,Female,Store,Cash
+T705,C1085,Cricket Bat,Sports,8607,5,43035,2025-04-17,41,Male,Online,Debit Card
+T706,C1203,Tablet,Electronics,53350,2,106700,2025-11-02,29,Male,Online,UPI
+T707,C1108,Laptop,Electronics,22484,2,44968,2025-07-18,19,Female,Store,Cash
+T708,C1195,Running Shoes,Sports,6953,3,20859,2025-10-23,67,Male,Online,UPI
+T709,C1144,Mixer,Home & Kitchen,694,2,1388,2025-10-10,66,Female,Store,UPI
+T710,C1010,Smartphone,Electronics,49243,4,196972,2025-06-15,45,Male,Store,UPI
+T711,C1165,Hoodie,Clothing,5303,1,5303,2025-11-29,58,Female,Store,Debit Card
+T712,C1162,Cricket Bat,Sports,1660,1,1660,2025-08-30,60,Male,Online,Cash
+T713,C1249,Smartphone,Electronics,6343,1,6343,2025-03-17,43,Male,Store,Cash
+T714,C1164,Smartphone,Electronics,22991,4,91964,2025-02-08,19,Male,Online,Cash
+T715,C1101,Smartphone,Electronics,27070,1,27070,2025-03-19,19,Male,Online,Cash
+T716,C1142,Badminton Racket,Sports,2572,5,12860,2025-04-20,31,Male,Store,Cash
+T717,C1173,Smartphone,Electronics,6047,2,12094,2025-11-28,39,Female,Store,Cash
+T718,C1164,Tablet,Electronics,7989,5,39945,2025-12-22,42,Female,Online,UPI
+T719,C1187,Badminton Racket,Sports,8097,3,24291,2025-05-31,49,Male,Online,Cash
+T720,C1144,Smartwatch,Electronics,77236,3,231708,2025-08-19,48,Female,Store,Cash
+T721,C1145,Football,Sports,7548,5,37740,2025-07-18,63,Female,Online,Cash
+T722,C1087,Sneakers,Clothing,5829,4,23316,2025-04-08,22,Male,Online,Cash
+T723,C1083,Jacket,Clothing,2653,3,7959,2025-12-19,48,Male,Online,Cash
+T724,C1029,Face Wash,Beauty,2437,5,12185,2025-09-08,37,Male,Online,UPI
+T725,C1219,T-Shirt,Clothing,1934,1,1934,2025-04-05,39,Female,Online,UPI
+T726,C1167,Jacket,Clothing,1670,1,1670,2025-07-31,61,Male,Store,Debit Card
+T727,C1046,Perfume,Beauty,4861,3,14583,2025-02-23,43,Female,Online,Cash
+T728,C1084,Headphones,Electronics,19424,2,38848,2025-04-21,18,Male,Store,UPI
+T729,C1163,T-Shirt,Clothing,4503,5,22515,2025-04-22,68,Male,Online,Cash
+T730,C1167,Smartwatch,Electronics,6394,4,25576,2025-07-23,37,Male,Store,UPI
+T731,C1141,Tablet,Electronics,17426,3,52278,2025-04-12,44,Male,Online,UPI
+T732,C1244,Badminton Racket,Sports,2558,5,12790,2025-12-31,39,Male,Online,Cash
+T733,C1137,Jacket,Clothing,1257,3,3771,2025-01-26,40,Male,Online,Cash
+T734,C1011,Badminton Racket,Sports,4706,3,14118,2025-09-25,32,Male,Online,Credit Card
+T735,C1134,Hoodie,Clothing,4906,3,14718,2025-10-21,51,Male,Online,Cash
+T736,C1187,Face Wash,Beauty,2107,1,2107,2025-08-08,18,Male,Store,Cash
+T737,C1102,Badminton Racket,Sports,4357,3,13071,2025-12-25,21,Male,Store,Credit Card
+T738,C1089,Face Wash,Beauty,3834,5,19170,2025-02-15,41,Female,Online,UPI
+T739,C1182,Badminton Racket,Sports,9690,1,9690,2025-01-07,63,Female,Online,Cash
+T740,C1153,Sneakers,Clothing,2876,2,5752,2025-01-28,60,Male,Online,Credit Card
+T741,C1017,Running Shoes,Sports,7408,4,29632,2025-09-27,31,Male,Store,Cash
+T742,C1217,Headphones,Electronics,79343,4,317372,2025-04-03,62,Male,Store,Cash
+T743,C1087,Running Shoes,Sports,906,5,4530,2025-03-05,69,Female,Store,Cash
+T744,C1185,Hoodie,Clothing,3990,1,3990,2025-07-29,66,Male,Store,Credit Card
+T745,C1236,Jeans,Clothing,4876,2,9752,2025-08-18,44,Female,Online,UPI
+T746,C1001,Smartphone,Electronics,2339,1,2339,2025-05-12,60,Female,Store,Cash
+T747,C1036,Jeans,Clothing,4952,5,24760,2025-10-18,25,Male,Store,Debit Card
+T748,C1146,Yoga Mat,Sports,9347,3,28041,2025-10-26,44,Female,Store,UPI
+T749,C1039,Cricket Bat,Sports,9150,3,27450,2025-07-06,48,Female,Online,UPI
+T750,C1022,Cricket Bat,Sports,5437,2,10874,2025-02-08,58,Female,Store,Credit Card
+T751,C1181,Coffee Maker,Home & Kitchen,5685,4,22740,2025-09-25,47,Female,Store,Credit Card
+T752,C1070,Jeans,Clothing,656,2,1312,2025-12-12,40,Female,Online,Credit Card
+T753,C1030,Mixer,Home & Kitchen,10427,3,31281,2025-04-11,35,Male,Store,UPI
+T754,C1167,Hoodie,Clothing,2480,2,4960,2025-08-17,29,Female,Store,Debit Card
+T755,C1117,Sneakers,Clothing,1669,5,8345,2025-11-28,46,Male,Online,Credit Card
+T756,C1236,Perfume,Beauty,4156,4,16624,2025-10-01,20,Male,Online,Credit Card
+T757,C1123,T-Shirt,Clothing,5940,2,11880,2025-12-30,48,Female,Online,Cash
+T758,C1185,Yoga Mat,Sports,7148,2,14296,2025-06-21,23,Female,Online,Debit Card
+T759,C1009,Cricket Bat,Sports,6382,4,25528,2025-08-12,45,Male,Online,UPI
+T760,C1187,Air Fryer,Home & Kitchen,7059,5,35295,2025-08-03,22,Female,Online,Cash
+T761,C1131,Hoodie,Clothing,3722,2,7444,2025-09-28,24,Male,Online,Debit Card
+T762,C1077,Running Shoes,Sports,2795,5,13975,2025-02-04,23,Female,Online,Credit Card
+T763,C1195,Running Shoes,Sports,3538,2,7076,2025-12-06,64,Female,Online,UPI
+T764,C1077,Air Fryer,Home & Kitchen,8522,5,42610,2025-07-14,65,Male,Store,Credit Card
+T765,C1001,Jeans,Clothing,2462,2,4924,2025-10-05,41,Male,Online,Cash
+T766,C1154,Hoodie,Clothing,1914,1,1914,2025-11-02,29,Male,Online,Cash
+T767,C1171,Face Wash,Beauty,4117,1,4117,2025-10-06,60,Female,Online,UPI
+T768,C1188,Yoga Mat,Sports,3661,5,18305,2025-02-12,31,Female,Store,Debit Card
+T769,C1212,Running Shoes,Sports,1479,3,4437,2025-06-09,64,Male,Store,Cash
+T770,C1024,Laptop,Electronics,8035,1,8035,2025-11-19,43,Female,Store,Cash
+T771,C1082,Cricket Bat,Sports,3053,5,15265,2025-09-26,22,Male,Store,Credit Card
+T772,C1239,Perfume,Beauty,3097,2,6194,2025-10-28,67,Male,Online,Cash
+T773,C1026,Air Fryer,Home & Kitchen,11874,1,11874,2025-07-22,36,Male,Online,UPI
+T774,C1119,Face Wash,Beauty,4669,5,23345,2025-08-04,58,Male,Online,Debit Card
+T775,C1180,Running Shoes,Sports,6619,4,26476,2025-12-14,50,Male,Store,Debit Card
+T776,C1080,Football,Sports,7604,2,15208,2025-04-09,51,Male,Online,Cash
+T777,C1163,T-Shirt,Clothing,4316,4,17264,2025-11-06,39,Female,Store,Cash
+T778,C1153,Air Fryer,Home & Kitchen,3387,4,13548,2025-08-02,38,Female,Store,UPI
+T779,C1096,Sneakers,Clothing,2512,3,7536,2025-03-05,40,Male,Online,Debit Card
+T780,C1103,Air Fryer,Home & Kitchen,990,2,1980,2025-12-09,32,Male,Online,UPI
+T781,C1170,Air Fryer,Home & Kitchen,3487,2,6974,2025-03-29,68,Male,Store,Debit Card
+T782,C1109,Jeans,Clothing,1473,4,5892,2025-12-13,23,Male,Online,UPI
+T783,C1246,Jacket,Clothing,2559,5,12795,2025-03-18,66,Male,Store,UPI
+T784,C1249,Football,Sports,8619,1,8619,2025-01-25,67,Male,Store,Debit Card
+T785,C1247,T-Shirt,Clothing,1301,5,6505,2025-03-16,31,Female,Store,Debit Card
+T786,C1237,Headphones,Electronics,83968,3,251904,2025-05-26,66,Female,Online,Cash
+T787,C1226,Headphones,Electronics,23299,1,23299,2025-05-06,60,Female,Online,Cash
+T788,C1147,Running Shoes,Sports,5218,1,5218,2025-01-16,68,Male,Online,Credit Card
+T789,C1045,Laptop,Electronics,84591,4,338364,2025-12-26,35,Female,Online,UPI
+T790,C1039,T-Shirt,Clothing,2468,2,4936,2025-03-11,49,Male,Store,Debit Card
+T791,C1125,Hoodie,Clothing,1433,1,1433,2025-09-01,35,Female,Store,Cash
+T792,C1154,Sneakers,Clothing,878,4,3512,2025-07-10,57,Male,Online,UPI
+T793,C1079,Tablet,Electronics,28656,3,85968,2025-11-04,22,Male,Online,Cash
+T794,C1074,Yoga Mat,Sports,1022,2,2044,2025-04-03,30,Female,Store,UPI
+T795,C1117,Sneakers,Clothing,5527,3,16581,2025-07-10,63,Female,Online,Credit Card
+T796,C1012,Coffee Maker,Home & Kitchen,6230,5,31150,2025-10-25,30,Female,Store,UPI
+T797,C1060,Smartwatch,Electronics,57627,1,57627,2025-11-04,24,Female,Store,Cash
+T798,C1197,Jeans,Clothing,2231,5,11155,2025-05-31,46,Female,Store,Debit Card
+T799,C1013,Yoga Mat,Sports,9379,4,37516,2025-07-02,34,Male,Store,UPI
+T800,C1075,Jeans,Clothing,1131,2,2262,2025-03-11,20,Female,Online,Credit Card
+T801,C1144,Badminton Racket,Sports,9807,5,49035,2025-08-02,36,Female,Online,Credit Card
+T802,C1100,Sneakers,Clothing,2771,1,2771,2025-02-04,31,Male,Online,Credit Card
+T803,C1072,Jeans,Clothing,2752,1,2752,2025-05-24,64,Female,Store,Debit Card
+T804,C1010,Yoga Mat,Sports,7138,2,14276,2025-09-30,62,Male,Online,Debit Card
+T805,C1029,Smartphone,Electronics,73027,1,73027,2025-01-06,41,Female,Online,Credit Card
+T806,C1078,Football,Sports,7437,2,14874,2025-10-11,20,Male,Store,UPI
+T807,C1179,Running Shoes,Sports,8169,5,40845,2025-02-23,56,Female,Online,Cash
+T808,C1191,Badminton Racket,Sports,3583,3,10749,2025-11-23,26,Male,Online,UPI
+T809,C1007,Jacket,Clothing,1735,4,6940,2025-02-04,20,Female,Online,Cash
+T810,C1117,Laptop,Electronics,51706,4,206824,2025-03-28,58,Male,Online,Credit Card
+T811,C1227,Laptop,Electronics,75217,4,300868,2025-06-14,58,Male,Online,UPI
+T812,C1112,Cricket Bat,Sports,1812,3,5436,2025-06-24,52,Female,Store,Debit Card
+T813,C1242,Football,Sports,3339,4,13356,2025-05-31,35,Female,Store,Credit Card
+T814,C1079,Perfume,Beauty,3350,3,10050,2025-09-28,67,Female,Online,Cash
+T815,C1189,Headphones,Electronics,87517,5,437585,2025-12-27,51,Female,Store,Cash
+T816,C1093,Badminton Racket,Sports,7324,1,7324,2025-02-03,32,Female,Store,UPI
+T817,C1091,Smartphone,Electronics,42865,5,214325,2025-07-11,42,Female,Store,Cash
+T818,C1189,Smartphone,Electronics,14468,1,14468,2025-02-25,47,Male,Store,UPI
+T819,C1186,Headphones,Electronics,28932,2,57864,2025-05-02,66,Male,Online,Cash
+T820,C1069,Smartphone,Electronics,32675,5,163375,2025-12-16,23,Male,Online,UPI
+T821,C1170,Smartwatch,Electronics,29107,3,87321,2025-04-15,54,Female,Online,UPI
+T822,C1162,Smartphone,Electronics,58408,3,175224,2025-04-10,39,Female,Store,Credit Card
+T823,C1001,T-Shirt,Clothing,2698,1,2698,2025-01-18,24,Male,Online,UPI
+T824,C1161,Tablet,Electronics,12323,5,61615,2025-03-23,44,Male,Online,Cash
+T825,C1087,Hoodie,Clothing,1528,4,6112,2025-07-07,23,Female,Store,Credit Card
+T826,C1229,Yoga Mat,Sports,4967,1,4967,2025-01-13,35,Female,Online,UPI
+T827,C1030,Coffee Maker,Home & Kitchen,794,5,3970,2025-03-20,35,Male,Store,Debit Card
+T828,C1007,Smartphone,Electronics,42585,4,170340,2025-11-19,24,Female,Store,Credit Card
+T829,C1114,Jacket,Clothing,4965,2,9930,2025-07-12,21,Female,Online,Cash
+T830,C1042,Coffee Maker,Home & Kitchen,2320,5,11600,2025-11-30,26,Male,Online,Cash
+T831,C1024,Running Shoes,Sports,3599,4,14396,2025-11-24,18,Female,Online,UPI
+T832,C1022,Perfume,Beauty,4238,3,12714,2025-11-15,52,Female,Store,UPI
+T833,C1112,Coffee Maker,Home & Kitchen,11975,5,59875,2025-02-11,51,Male,Online,Credit Card
+T834,C1207,Yoga Mat,Sports,4230,2,8460,2025-09-30,55,Female,Online,UPI
+T835,C1035,Face Wash,Beauty,1501,3,4503,2025-02-25,36,Male,Store,Credit Card
+T836,C1065,Yoga Mat,Sports,2316,1,2316,2025-11-04,38,Male,Store,UPI
+T837,C1054,Running Shoes,Sports,9488,3,28464,2025-10-04,33,Female,Online,UPI
+T838,C1017,Jacket,Clothing,3295,4,13180,2025-03-06,53,Female,Store,Debit Card
+T839,C1237,Jeans,Clothing,4411,5,22055,2025-11-23,61,Male,Store,Credit Card
+T840,C1229,Tablet,Electronics,88045,3,264135,2025-01-02,27,Female,Online,UPI
+T841,C1058,Mixer,Home & Kitchen,2361,1,2361,2025-12-06,18,Female,Online,UPI
+T842,C1135,T-Shirt,Clothing,1301,5,6505,2025-04-07,40,Male,Store,UPI
+T843,C1055,Perfume,Beauty,1267,3,3801,2025-10-09,50,Male,Store,UPI
+T844,C1078,Smartwatch,Electronics,80537,1,80537,2025-12-02,40,Female,Online,Cash
+T845,C1169,Headphones,Electronics,60270,3,180810,2025-12-09,46,Female,Online,UPI
+T846,C1105,Jeans,Clothing,2962,2,5924,2025-02-01,48,Female,Online,Debit Card
+T847,C1090,Laptop,Electronics,20828,4,83312,2025-08-12,23,Male,Store,Debit Card
+T848,C1239,Smartphone,Electronics,56221,4,224884,2025-07-28,50,Female,Online,Debit Card
+T849,C1209,Hoodie,Clothing,4551,1,4551,2025-02-01,32,Female,Online,Cash
+T850,C1015,Face Wash,Beauty,2434,2,4868,2025-05-10,53,Female,Online,UPI
+T851,C1166,Laptop,Electronics,73194,2,146388,2025-01-25,54,Female,Online,UPI
+T852,C1096,Sneakers,Clothing,4924,1,4924,2025-05-25,41,Male,Online,Credit Card
+T853,C1186,Sneakers,Clothing,3283,1,3283,2025-09-30,67,Female,Store,Cash
+T854,C1145,Coffee Maker,Home & Kitchen,1864,5,9320,2025-07-02,46,Female,Store,UPI
+T855,C1014,Yoga Mat,Sports,895,4,3580,2025-04-11,62,Female,Online,UPI
+T856,C1107,Football,Sports,556,4,2224,2025-12-04,37,Female,Store,Debit Card
+T857,C1090,Mixer,Home & Kitchen,11968,3,35904,2025-09-28,45,Male,Online,Debit Card
+T858,C1181,Badminton Racket,Sports,9769,2,19538,2025-06-23,45,Male,Store,Cash
+T859,C1177,Headphones,Electronics,64256,2,128512,2025-10-02,34,Female,Online,Cash
+T860,C1100,Headphones,Electronics,39562,1,39562,2025-02-24,43,Male,Store,Cash
+T861,C1118,Jeans,Clothing,1469,4,5876,2025-07-08,18,Male,Online,Credit Card
+T862,C1144,Cricket Bat,Sports,543,2,1086,2025-07-19,46,Male,Store,Credit Card
+T863,C1026,Badminton Racket,Sports,9949,3,29847,2025-06-03,43,Female,Online,UPI
+T864,C1108,Air Fryer,Home & Kitchen,1223,3,3669,2025-03-09,43,Male,Store,Credit Card
+T865,C1126,Football,Sports,9755,2,19510,2025-02-13,50,Male,Store,Cash
+T866,C1066,Smartphone,Electronics,60939,2,121878,2025-05-29,45,Female,Store,Cash
+T867,C1130,Hoodie,Clothing,1880,5,9400,2025-10-06,34,Female,Store,Cash
+T868,C1066,Badminton Racket,Sports,1699,3,5097,2025-02-15,20,Male,Store,Cash
+T869,C1205,Tablet,Electronics,74605,3,223815,2025-06-11,61,Male,Store,Credit Card
+T870,C1071,Tablet,Electronics,3889,4,15556,2025-06-29,47,Male,Online,Cash
+T871,C1187,Cricket Bat,Sports,2197,4,8788,2025-06-04,60,Male,Store,Debit Card
+T872,C1015,Smartwatch,Electronics,50094,3,150282,2025-03-10,40,Male,Online,UPI
+T873,C1011,Headphones,Electronics,64380,1,64380,2025-06-03,38,Female,Online,UPI
+T874,C1140,T-Shirt,Clothing,2041,5,10205,2025-02-04,31,Male,Store,Credit Card
+T875,C1195,T-Shirt,Clothing,763,2,1526,2025-06-18,27,Female,Online,UPI
+T876,C1106,Running Shoes,Sports,4240,4,16960,2025-12-25,21,Female,Online,Credit Card
+T877,C1098,Tablet,Electronics,61041,5,305205,2025-01-19,19,Female,Online,Credit Card
+T878,C1140,T-Shirt,Clothing,4887,5,24435,2025-11-03,28,Male,Online,Debit Card
+T879,C1112,Sneakers,Clothing,5521,2,11042,2025-05-19,53,Female,Online,Cash
+T880,C1213,Jacket,Clothing,1273,4,5092,2025-09-10,31,Female,Store,Credit Card
+T881,C1154,Mixer,Home & Kitchen,10021,4,40084,2025-08-04,40,Male,Online,UPI
+T882,C1190,T-Shirt,Clothing,5813,5,29065,2025-02-13,39,Female,Store,Debit Card
+T883,C1120,T-Shirt,Clothing,2080,3,6240,2025-08-30,55,Female,Online,Credit Card
+T884,C1018,Jacket,Clothing,5767,5,28835,2025-02-26,56,Female,Online,Debit Card
+T885,C1249,Badminton Racket,Sports,6895,4,27580,2025-10-31,59,Male,Store,Credit Card
+T886,C1126,Badminton Racket,Sports,8616,3,25848,2025-10-06,51,Male,Store,Cash
+T887,C1229,Jeans,Clothing,5751,1,5751,2025-08-01,19,Female,Online,UPI
+T888,C1072,Smartphone,Electronics,58739,3,176217,2025-09-03,35,Female,Store,Cash
+T889,C1186,Mixer,Home & Kitchen,808,2,1616,2025-12-09,69,Male,Online,Credit Card
+T890,C1023,Tablet,Electronics,82531,2,165062,2025-07-29,54,Female,Online,Credit Card
+T891,C1018,Cricket Bat,Sports,3280,4,13120,2025-10-07,51,Male,Online,Cash
+T892,C1090,Cricket Bat,Sports,404,2,808,2025-07-01,30,Male,Online,Debit Card
+T893,C1156,Jacket,Clothing,3338,2,6676,2025-09-07,29,Female,Online,Cash
+T894,C1188,Yoga Mat,Sports,5492,2,10984,2025-03-29,29,Female,Online,Cash
+T895,C1169,Sneakers,Clothing,2991,5,14955,2025-01-05,28,Female,Store,UPI
+T896,C1099,Face Wash,Beauty,854,2,1708,2025-09-05,24,Female,Store,Cash
+T897,C1108,Perfume,Beauty,4023,4,16092,2025-12-07,23,Male,Store,Debit Card
+T898,C1205,Smartwatch,Electronics,88692,5,443460,2025-08-25,66,Male,Online,Cash
+T899,C1053,Cricket Bat,Sports,1389,5,6945,2025-09-12,21,Female,Store,Debit Card
+T900,C1244,Hoodie,Clothing,4852,1,4852,2025-08-08,26,Female,Online,Credit Card
+T901,C1058,Headphones,Electronics,27905,2,55810,2025-11-29,56,Female,Online,Cash
+T902,C1200,Face Wash,Beauty,1265,4,5060,2025-06-30,50,Male,Store,UPI
+T903,C1221,Smartwatch,Electronics,89170,2,178340,2025-06-20,32,Female,Online,UPI
+T904,C1146,Running Shoes,Sports,4677,3,14031,2025-01-10,29,Female,Store,Debit Card
+T905,C1101,Cricket Bat,Sports,8567,4,34268,2025-10-08,40,Female,Store,Cash
+T906,C1093,Headphones,Electronics,43092,2,86184,2025-03-04,51,Male,Store,Cash
+T907,C1116,Sneakers,Clothing,4924,2,9848,2025-07-26,45,Female,Store,Cash
+T908,C1091,Smartwatch,Electronics,19977,1,19977,2025-06-16,49,Female,Online,Cash
+T909,C1038,Headphones,Electronics,29133,2,58266,2025-09-03,56,Female,Online,Credit Card
+T910,C1216,Tablet,Electronics,74960,3,224880,2025-11-20,24,Male,Store,UPI
+T911,C1124,Jacket,Clothing,646,3,1938,2025-10-26,51,Male,Store,UPI
+T912,C1249,Cricket Bat,Sports,5980,3,17940,2025-07-14,39,Male,Store,Credit Card
+T913,C1044,Yoga Mat,Sports,6155,1,6155,2025-03-17,38,Female,Store,Debit Card
+T914,C1158,Badminton Racket,Sports,7211,5,36055,2025-05-25,67,Male,Online,Debit Card
+T915,C1044,Air Fryer,Home & Kitchen,6849,4,27396,2025-12-22,37,Female,Online,UPI
+T916,C1069,Jeans,Clothing,4232,4,16928,2025-04-27,21,Male,Store,Credit Card
+T917,C1138,Hoodie,Clothing,3439,2,6878,2025-10-24,30,Male,Online,Credit Card
+T918,C1092,Hoodie,Clothing,1781,3,5343,2025-05-08,68,Male,Store,UPI
+T919,C1069,Football,Sports,3549,5,17745,2025-01-30,38,Male,Online,UPI
+T920,C1141,Badminton Racket,Sports,3916,3,11748,2025-03-04,36,Female,Store,UPI
+T921,C1010,Face Wash,Beauty,645,5,3225,2025-02-12,66,Female,Store,Cash
+T922,C1080,T-Shirt,Clothing,2248,1,2248,2025-03-12,44,Male,Store,Debit Card
+T923,C1021,Face Wash,Beauty,1182,4,4728,2025-07-01,42,Female,Online,Cash
+T924,C1021,Yoga Mat,Sports,6124,3,18372,2025-12-19,18,Male,Online,Credit Card
+T925,C1212,Headphones,Electronics,50503,3,151509,2025-06-02,62,Female,Online,Debit Card
+T926,C1019,Badminton Racket,Sports,4452,3,13356,2025-03-28,26,Male,Online,Credit Card
+T927,C1175,Running Shoes,Sports,9095,2,18190,2025-02-11,37,Male,Online,Debit Card
+T928,C1117,Smartphone,Electronics,62813,4,251252,2025-01-19,34,Male,Online,Credit Card
+T929,C1029,Jeans,Clothing,1504,4,6016,2025-07-16,47,Female,Store,Cash
+T930,C1057,Sneakers,Clothing,2643,3,7929,2025-06-01,31,Male,Store,Credit Card
+T931,C1023,Running Shoes,Sports,9371,2,18742,2025-01-17,47,Female,Online,Debit Card
+T932,C1163,Football,Sports,5136,4,20544,2025-09-22,32,Female,Store,Cash
+T933,C1010,Running Shoes,Sports,1499,4,5996,2025-11-17,38,Male,Online,UPI
+T934,C1027,Perfume,Beauty,2050,4,8200,2025-12-08,35,Female,Store,Cash
+T935,C1162,Yoga Mat,Sports,1078,1,1078,2025-03-23,61,Female,Store,Debit Card
+T936,C1200,Jeans,Clothing,5427,2,10854,2025-02-07,26,Male,Online,Credit Card
+T937,C1192,Running Shoes,Sports,2994,2,5988,2025-08-08,47,Female,Online,Cash
+T938,C1148,Mixer,Home & Kitchen,2741,3,8223,2025-07-25,39,Male,Online,Cash
+T939,C1095,T-Shirt,Clothing,3782,4,15128,2025-03-29,42,Male,Online,UPI
+T940,C1103,Mixer,Home & Kitchen,6776,4,27104,2025-06-27,59,Female,Store,Cash
+T941,C1041,Yoga Mat,Sports,7006,4,28024,2025-05-02,34,Female,Online,Credit Card
+T942,C1045,Running Shoes,Sports,7819,3,23457,2025-04-29,51,Female,Store,Credit Card
+T943,C1101,Running Shoes,Sports,8461,2,16922,2025-02-13,32,Female,Store,Credit Card
+T944,C1076,Yoga Mat,Sports,6482,3,19446,2025-08-02,39,Female,Online,Debit Card
+T945,C1017,Cricket Bat,Sports,5152,5,25760,2025-11-18,21,Female,Online,Cash
+T946,C1230,Badminton Racket,Sports,8290,5,41450,2025-08-07,30,Male,Online,Cash
+T947,C1176,Tablet,Electronics,17335,3,52005,2025-09-16,21,Male,Online,Cash
+T948,C1141,Headphones,Electronics,43262,4,173048,2025-10-23,30,Female,Store,Credit Card
+T949,C1077,T-Shirt,Clothing,5939,1,5939,2025-12-21,34,Male,Store,UPI
+T950,C1111,Badminton Racket,Sports,8657,4,34628,2025-12-14,60,Male,Store,Credit Card
+T951,C1103,Coffee Maker,Home & Kitchen,2986,3,8958,2025-08-15,29,Female,Online,Cash
+T952,C1202,Jeans,Clothing,1436,1,1436,2025-11-09,62,Female,Online,Cash
+T953,C1011,Laptop,Electronics,4207,5,21035,2025-02-04,20,Female,Online,Credit Card
+T954,C1031,Jeans,Clothing,2564,2,5128,2025-12-28,69,Female,Online,Cash
+T955,C1020,Coffee Maker,Home & Kitchen,5434,5,27170,2025-03-07,23,Male,Online,Cash
+T956,C1070,Smartphone,Electronics,88785,1,88785,2025-07-18,56,Male,Online,Debit Card
+T957,C1113,Face Wash,Beauty,1293,2,2586,2025-08-02,37,Male,Online,Cash
+T958,C1133,Jacket,Clothing,4148,1,4148,2025-02-21,50,Female,Store,Debit Card
+T959,C1138,Jeans,Clothing,3233,5,16165,2025-10-20,47,Male,Online,Cash
+T960,C1016,Perfume,Beauty,4977,3,14931,2025-06-25,61,Female,Online,UPI
+T961,C1208,T-Shirt,Clothing,562,2,1124,2025-06-05,19,Female,Online,UPI
+T962,C1189,Smartwatch,Electronics,86166,4,344664,2025-06-30,56,Male,Store,Cash
+T963,C1187,Air Fryer,Home & Kitchen,1422,2,2844,2025-05-08,24,Female,Online,UPI
+T964,C1095,T-Shirt,Clothing,2900,4,11600,2025-08-14,32,Female,Store,Cash
+T965,C1003,Running Shoes,Sports,2328,5,11640,2025-07-01,68,Male,Store,Credit Card
+T966,C1223,Badminton Racket,Sports,6640,2,13280,2025-07-22,44,Male,Online,Debit Card
+T967,C1123,T-Shirt,Clothing,3517,2,7034,2025-04-01,53,Male,Online,Credit Card
+T968,C1025,Laptop,Electronics,25822,3,77466,2025-10-18,48,Female,Online,UPI
+T969,C1236,Coffee Maker,Home & Kitchen,8153,4,32612,2025-07-10,68,Female,Store,Credit Card
+T970,C1159,Hoodie,Clothing,980,1,980,2025-09-15,51,Female,Store,UPI
+T971,C1240,Hoodie,Clothing,3585,4,14340,2025-06-13,38,Male,Online,Credit Card
+T972,C1236,Football,Sports,786,2,1572,2025-08-06,38,Male,Store,Credit Card
+T973,C1180,Jacket,Clothing,4766,3,14298,2025-05-24,18,Female,Online,Debit Card
+T974,C1090,Perfume,Beauty,724,3,2172,2025-05-29,19,Female,Online,Credit Card
+T975,C1230,T-Shirt,Clothing,3645,1,3645,2025-09-21,50,Male,Online,Cash
+T976,C1031,Jacket,Clothing,4866,5,24330,2025-09-05,37,Female,Store,Credit Card
+T977,C1246,Yoga Mat,Sports,1004,1,1004,2025-09-28,47,Female,Store,UPI
+T978,C1093,Cricket Bat,Sports,7932,5,39660,2025-12-08,24,Male,Online,Cash
+T979,C1249,Cricket Bat,Sports,5109,4,20436,2025-06-15,48,Female,Online,UPI
+T980,C1049,Sneakers,Clothing,3720,3,11160,2025-08-04,30,Female,Online,Debit Card
+T981,C1135,Coffee Maker,Home & Kitchen,7631,4,30524,2025-11-24,40,Male,Online,Credit Card
+T982,C1117,Hoodie,Clothing,5171,1,5171,2025-10-10,63,Female,Online,UPI
+T983,C1070,Laptop,Electronics,82294,2,164588,2025-06-02,20,Female,Online,Credit Card
+T984,C1024,Smartphone,Electronics,79729,2,159458,2025-07-23,39,Male,Store,Debit Card
+T985,C1222,Cricket Bat,Sports,1635,1,1635,2025-07-28,18,Male,Store,UPI
+T986,C1154,Sneakers,Clothing,4541,3,13623,2025-08-04,39,Female,Store,UPI
+T987,C1232,Air Fryer,Home & Kitchen,11188,2,22376,2025-02-04,41,Female,Store,Cash
+T988,C1226,Cricket Bat,Sports,4042,1,4042,2025-08-31,32,Female,Online,UPI
+T989,C1141,Coffee Maker,Home & Kitchen,11444,2,22888,2025-04-25,21,Male,Online,Debit Card
+T990,C1199,Hoodie,Clothing,1498,2,2996,2025-04-13,58,Female,Store,Debit Card
+T991,C1176,Jeans,Clothing,4754,4,19016,2025-01-07,66,Female,Online,UPI
+T992,C1028,Perfume,Beauty,2702,4,10808,2025-10-03,67,Male,Store,Cash
+T993,C1036,Air Fryer,Home & Kitchen,3572,4,14288,2025-02-25,52,Female,Store,Credit Card
+T994,C1216,Cricket Bat,Sports,2249,3,6747,2025-03-06,22,Female,Online,Credit Card
+T995,C1180,Coffee Maker,Home & Kitchen,1632,4,6528,2025-12-23,53,Female,Store,Cash
+T996,C1044,Yoga Mat,Sports,1887,1,1887,2025-01-22,19,Male,Store,Cash
+T997,C1188,Jeans,Clothing,1982,5,9910,2025-11-06,43,Male,Online,Cash
+T998,C1142,Running Shoes,Sports,5592,1,5592,2025-04-11,19,Female,Store,Credit Card
+T999,C1243,Laptop,Electronics,22402,2,44804,2025-12-25,64,Male,Store,Credit Card
+T1000,C1029,Sneakers,Clothing,2658,3,7974,2025-08-17,35,Female,Store,Cash
+T1001,C1032,Jeans,Clothing,669,4,2676,2025-12-21,22,Male,Store,Credit Card
+T1002,C1161,Hoodie,Clothing,3642,1,3642,2025-03-10,62,Female,Online,UPI
+T1003,C1153,Tablet,Electronics,59825,1,59825,2025-03-03,46,Male,Store,Credit Card
+T1004,C1242,Perfume,Beauty,4927,2,9854,2025-06-06,32,Male,Store,Credit Card
+T1005,C1106,Football,Sports,7739,3,23217,2025-09-27,20,Male,Store,Credit Card
+T1006,C1057,T-Shirt,Clothing,1852,2,3704,2025-07-29,37,Female,Store,UPI
+T1007,C1044,T-Shirt,Clothing,860,4,3440,2025-12-19,45,Female,Online,Cash
+T1008,C1032,Smartphone,Electronics,23563,5,117815,2025-03-10,48,Male,Online,Credit Card
+T1009,C1218,Laptop,Electronics,65949,3,197847,2025-01-30,67,Female,Online,Debit Card
+T1010,C1044,Sneakers,Clothing,4881,3,14643,2025-03-09,42,Male,Online,Debit Card
+T1011,C1236,Headphones,Electronics,76886,1,76886,2025-05-10,58,Female,Store,Debit Card
+T1012,C1044,Perfume,Beauty,4425,2,8850,2025-11-29,63,Male,Store,Credit Card
+T1013,C1198,Hoodie,Clothing,1167,3,3501,2025-06-11,54,Female,Online,Debit Card
+T1014,C1188,Headphones,Electronics,38060,3,114180,2025-01-26,41,Male,Store,Debit Card
+T1015,C1085,Football,Sports,2432,4,9728,2025-01-11,56,Female,Store,Credit Card
+T1016,C1125,Tablet,Electronics,39245,4,156980,2025-10-05,47,Female,Online,Debit Card
+T1017,C1019,Jacket,Clothing,2033,1,2033,2025-11-25,68,Female,Store,UPI
+T1018,C1027,Smartwatch,Electronics,7662,3,22986,2025-08-03,44,Female,Store,Credit Card
+T1019,C1211,Running Shoes,Sports,8513,2,17026,2025-06-16,58,Male,Online,UPI
+T1020,C1220,Laptop,Electronics,74894,2,149788,2025-12-18,29,Female,Online,Credit Card
+T1021,C1161,Smartwatch,Electronics,8656,2,17312,2025-05-13,39,Male,Online,Cash
+T1022,C1144,Coffee Maker,Home & Kitchen,6484,3,19452,2025-01-18,67,Male,Store,Credit Card
+T1023,C1130,Air Fryer,Home & Kitchen,7194,1,7194,2025-06-03,65,Male,Online,Credit Card
+T1024,C1169,Football,Sports,7189,2,14378,2025-06-15,59,Female,Store,Debit Card
+T1025,C1150,Jacket,Clothing,5483,2,10966,2025-09-30,46,Female,Store,Credit Card
+T1026,C1176,T-Shirt,Clothing,1961,4,7844,2025-04-09,31,Female,Online,Debit Card
+T1027,C1245,Jeans,Clothing,5623,2,11246,2025-03-30,30,Male,Online,Credit Card
+T1028,C1035,Sneakers,Clothing,478,4,1912,2025-09-26,51,Male,Store,Credit Card
+T1029,C1241,T-Shirt,Clothing,2578,2,5156,2025-04-30,23,Male,Store,Cash
+T1030,C1067,Running Shoes,Sports,2770,2,5540,2025-04-13,26,Female,Store,UPI
+T1031,C1210,Coffee Maker,Home & Kitchen,620,4,2480,2025-05-09,44,Female,Online,UPI
+T1032,C1024,Mixer,Home & Kitchen,9024,1,9024,2025-05-10,54,Male,Store,Cash
+T1033,C1246,Headphones,Electronics,59573,4,238292,2025-05-19,63,Male,Online,Cash
+T1034,C1160,Perfume,Beauty,1027,2,2054,2025-10-26,33,Female,Online,Cash
+T1035,C1029,Running Shoes,Sports,9361,2,18722,2025-06-15,48,Male,Store,Credit Card
+T1036,C1090,Headphones,Electronics,59501,1,59501,2025-10-31,18,Male,Online,Credit Card
+T1037,C1123,Yoga Mat,Sports,1816,5,9080,2025-09-06,18,Male,Online,Credit Card
+T1038,C1123,T-Shirt,Clothing,3462,4,13848,2025-12-22,45,Male,Online,Debit Card
+T1039,C1046,Jacket,Clothing,2953,4,11812,2025-03-17,56,Female,Store,Cash
+T1040,C1216,Smartwatch,Electronics,83828,3,251484,2025-03-10,52,Male,Online,Credit Card
+T1041,C1087,Laptop,Electronics,56518,5,282590,2025-04-25,45,Female,Online,Debit Card
+T1042,C1021,Smartphone,Electronics,37639,1,37639,2025-01-27,52,Female,Online,UPI
+T1043,C1038,Smartwatch,Electronics,36307,5,181535,2025-12-07,46,Female,Online,UPI
+T1044,C1225,Badminton Racket,Sports,3857,1,3857,2025-01-26,23,Male,Online,Debit Card
+T1045,C1076,Laptop,Electronics,71204,5,356020,2025-02-17,42,Male,Online,Debit Card
+T1046,C1053,Smartwatch,Electronics,2817,5,14085,2025-07-04,64,Female,Online,Cash
+T1047,C1212,Badminton Racket,Sports,1838,5,9190,2025-04-14,50,Female,Store,Credit Card
+T1048,C1174,Cricket Bat,Sports,7427,4,29708,2025-07-24,62,Female,Online,UPI
+T1049,C1242,Cricket Bat,Sports,3643,1,3643,2025-06-27,30,Female,Online,Cash
+T1050,C1074,Perfume,Beauty,1003,1,1003,2025-11-15,22,Female,Store,UPI
+T1051,C1055,Yoga Mat,Sports,5824,2,11648,2025-09-20,21,Female,Online,Cash
+T1052,C1177,Cricket Bat,Sports,9615,2,19230,2025-01-29,40,Male,Store,Debit Card
+T1053,C1093,Laptop,Electronics,83896,5,419480,2025-10-06,60,Male,Store,Credit Card
+T1054,C1238,Badminton Racket,Sports,6306,5,31530,2025-12-25,30,Female,Online,Credit Card
+T1055,C1017,Laptop,Electronics,8710,2,17420,2025-03-14,50,Female,Online,Credit Card
+T1056,C1202,Running Shoes,Sports,9586,5,47930,2025-02-03,37,Male,Store,Credit Card
+T1057,C1007,Coffee Maker,Home & Kitchen,1358,2,2716,2025-09-10,47,Male,Online,Cash
+T1058,C1241,Cricket Bat,Sports,8306,2,16612,2025-01-16,57,Female,Store,Debit Card
+T1059,C1027,Yoga Mat,Sports,8506,4,34024,2025-09-30,49,Male,Store,Cash
+T1060,C1103,Badminton Racket,Sports,9681,1,9681,2025-04-02,55,Male,Store,Credit Card
+T1061,C1237,Laptop,Electronics,71200,5,356000,2025-07-17,62,Female,Online,Debit Card
+T1062,C1106,Face Wash,Beauty,3453,2,6906,2025-01-31,41,Male,Online,UPI
+T1063,C1116,Football,Sports,3913,5,19565,2025-07-10,44,Male,Online,Cash
+T1064,C1064,Yoga Mat,Sports,4349,2,8698,2025-02-06,43,Male,Store,Debit Card
+T1065,C1099,Jacket,Clothing,1315,2,2630,2025-03-27,36,Female,Online,Cash
+T1066,C1222,Coffee Maker,Home & Kitchen,10674,3,32022,2025-10-14,66,Female,Online,Cash
+T1067,C1107,Running Shoes,Sports,795,3,2385,2025-04-11,54,Male,Online,Credit Card
+T1068,C1166,Mixer,Home & Kitchen,3701,4,14804,2025-09-28,69,Female,Store,Credit Card
+T1069,C1018,Running Shoes,Sports,5338,4,21352,2025-07-13,25,Male,Online,UPI
+T1070,C1167,Yoga Mat,Sports,4381,2,8762,2025-07-10,61,Female,Online,UPI
+T1071,C1048,Face Wash,Beauty,274,1,274,2025-01-21,27,Male,Online,Debit Card
+T1072,C1078,Badminton Racket,Sports,6523,2,13046,2025-05-31,30,Male,Store,Cash
+T1073,C1200,Jacket,Clothing,920,1,920,2025-04-11,38,Female,Store,UPI
+T1074,C1206,Running Shoes,Sports,3200,1,3200,2025-02-12,48,Female,Store,Credit Card
+T1075,C1157,Headphones,Electronics,30083,4,120332,2025-08-25,19,Female,Online,Debit Card
+T1076,C1238,Football,Sports,5999,4,23996,2025-05-22,61,Female,Online,Cash
+T1077,C1102,T-Shirt,Clothing,5863,3,17589,2025-12-04,41,Male,Store,Cash
+T1078,C1076,Smartphone,Electronics,8647,3,25941,2025-08-02,41,Male,Store,Cash
+T1079,C1214,Coffee Maker,Home & Kitchen,5263,4,21052,2025-07-18,40,Male,Store,Debit Card
+T1080,C1206,Hoodie,Clothing,5170,4,20680,2025-04-03,59,Female,Online,Credit Card
+T1081,C1219,Yoga Mat,Sports,4203,2,8406,2025-04-28,62,Male,Store,Cash
+T1082,C1063,Tablet,Electronics,56356,1,56356,2025-11-01,51,Female,Store,Debit Card
+T1083,C1092,Perfume,Beauty,1505,1,1505,2025-10-20,51,Male,Online,Cash
+T1084,C1108,Jeans,Clothing,2923,5,14615,2025-08-30,55,Female,Store,Credit Card
+T1085,C1234,Cricket Bat,Sports,6952,4,27808,2025-07-16,20,Female,Online,Debit Card
+T1086,C1189,Badminton Racket,Sports,9855,4,39420,2025-12-26,20,Male,Online,Debit Card
+T1087,C1115,Jeans,Clothing,2813,2,5626,2025-12-28,36,Female,Online,Cash
+T1088,C1025,Yoga Mat,Sports,9656,5,48280,2025-08-22,42,Female,Store,Cash
+T1089,C1147,Running Shoes,Sports,3510,3,10530,2025-04-14,27,Male,Store,Debit Card
+T1090,C1210,Perfume,Beauty,1617,3,4851,2025-10-13,39,Male,Online,UPI
+T1091,C1236,Coffee Maker,Home & Kitchen,6051,2,12102,2025-07-23,23,Male,Online,Cash
+T1092,C1200,Smartphone,Electronics,57889,5,289445,2025-08-13,27,Female,Store,Debit Card
+T1093,C1104,Smartwatch,Electronics,82453,4,329812,2025-12-19,64,Female,Store,Debit Card
+T1094,C1040,Air Fryer,Home & Kitchen,4051,3,12153,2025-09-14,60,Female,Online,Credit Card
+T1095,C1163,Smartwatch,Electronics,79408,1,79408,2025-10-25,51,Male,Store,Debit Card
+T1096,C1190,Yoga Mat,Sports,1622,5,8110,2025-11-06,37,Female,Online,Debit Card
+T1097,C1039,Face Wash,Beauty,351,2,702,2025-10-29,39,Male,Store,Cash
+T1098,C1219,Coffee Maker,Home & Kitchen,3222,1,3222,2025-10-29,55,Female,Store,UPI
+T1099,C1118,Jacket,Clothing,1969,4,7876,2025-09-30,50,Male,Store,Cash
+T1100,C1085,Cricket Bat,Sports,2224,4,8896,2025-04-23,46,Male,Online,Credit Card
+T1101,C1239,Smartwatch,Electronics,11817,3,35451,2025-05-01,30,Male,Store,UPI
+T1102,C1153,Face Wash,Beauty,1615,2,3230,2025-08-21,20,Male,Store,Credit Card
+T1103,C1104,Football,Sports,1869,4,7476,2025-02-08,43,Female,Online,Cash
+T1104,C1180,Laptop,Electronics,81571,5,407855,2025-10-13,29,Female,Online,UPI
+T1105,C1075,T-Shirt,Clothing,3706,4,14824,2025-11-04,33,Male,Store,UPI
+T1106,C1055,Laptop,Electronics,4441,5,22205,2025-07-11,56,Female,Online,Cash
+T1107,C1077,Jeans,Clothing,1273,2,2546,2025-08-20,26,Male,Store,UPI
+T1108,C1114,Tablet,Electronics,9336,4,37344,2025-05-25,19,Male,Online,UPI
+T1109,C1023,Perfume,Beauty,422,1,422,2025-10-03,59,Female,Online,UPI
+T1110,C1031,Jacket,Clothing,4351,3,13053,2025-06-02,30,Male,Online,UPI
+T1111,C1089,Smartwatch,Electronics,72345,3,217035,2025-11-06,22,Male,Store,Debit Card
+T1112,C1242,Running Shoes,Sports,8690,3,26070,2025-03-03,62,Male,Online,Debit Card
+T1113,C1112,Jacket,Clothing,1475,3,4425,2025-10-16,63,Male,Store,Cash
+T1114,C1221,Face Wash,Beauty,3938,4,15752,2025-12-28,66,Female,Online,Credit Card
+T1115,C1166,Yoga Mat,Sports,6563,1,6563,2025-07-27,36,Female,Store,Cash
+T1116,C1076,T-Shirt,Clothing,3308,1,3308,2025-04-10,43,Male,Store,Cash
+T1117,C1146,Football,Sports,6622,1,6622,2025-06-25,29,Female,Online,Debit Card
+T1118,C1230,Perfume,Beauty,423,2,846,2025-08-24,60,Female,Online,Credit Card
+T1119,C1235,Smartwatch,Electronics,37295,1,37295,2025-04-06,43,Female,Store,Debit Card
+T1120,C1023,Hoodie,Clothing,1243,5,6215,2025-04-02,23,Male,Store,UPI
+T1121,C1192,Sneakers,Clothing,3785,3,11355,2025-08-09,33,Female,Store,Credit Card
+T1122,C1075,Jacket,Clothing,3235,3,9705,2025-11-30,56,Male,Store,Credit Card
+T1123,C1122,Jacket,Clothing,4270,3,12810,2025-02-23,61,Female,Store,Debit Card
+T1124,C1162,Football,Sports,3461,1,3461,2025-07-08,20,Male,Store,Cash
+T1125,C1084,Football,Sports,1467,4,5868,2025-06-07,34,Male,Store,Debit Card
+T1126,C1160,Yoga Mat,Sports,3579,3,10737,2025-11-14,66,Female,Online,Debit Card
+T1127,C1145,Hoodie,Clothing,666,3,1998,2025-07-09,64,Female,Store,UPI
+T1128,C1181,Jacket,Clothing,1271,4,5084,2025-08-01,57,Male,Online,Credit Card
+T1129,C1146,Running Shoes,Sports,3791,3,11373,2025-10-30,23,Female,Store,Cash
+T1130,C1129,Badminton Racket,Sports,9910,1,9910,2025-08-25,27,Male,Store,Debit Card
+T1131,C1209,Football,Sports,692,4,2768,2025-01-24,42,Male,Online,Credit Card
+T1132,C1191,Jeans,Clothing,2672,2,5344,2025-10-07,28,Male,Store,Debit Card
+T1133,C1167,Tablet,Electronics,84483,4,337932,2025-05-21,40,Male,Store,UPI
+T1134,C1128,Cricket Bat,Sports,7920,4,31680,2025-10-17,24,Male,Online,UPI
+T1135,C1103,Air Fryer,Home & Kitchen,8210,2,16420,2025-12-25,32,Male,Online,Credit Card
+T1136,C1081,Tablet,Electronics,27242,5,136210,2025-07-13,33,Male,Online,UPI
+T1137,C1041,Mixer,Home & Kitchen,6255,3,18765,2025-04-12,25,Male,Online,Credit Card
+T1138,C1157,Coffee Maker,Home & Kitchen,1072,2,2144,2025-03-12,56,Male,Store,Debit Card
+T1139,C1057,Coffee Maker,Home & Kitchen,858,2,1716,2025-10-02,21,Female,Store,UPI
+T1140,C1006,Smartwatch,Electronics,59771,1,59771,2025-06-02,50,Male,Online,Debit Card
+T1141,C1195,Yoga Mat,Sports,491,3,1473,2025-11-29,54,Female,Online,Cash
+T1142,C1145,Yoga Mat,Sports,8568,3,25704,2025-04-03,53,Male,Store,UPI
+T1143,C1205,Smartphone,Electronics,6422,5,32110,2025-09-17,53,Female,Store,UPI
+T1144,C1149,Smartwatch,Electronics,67001,4,268004,2025-06-10,31,Female,Store,UPI
+T1145,C1019,Face Wash,Beauty,4927,4,19708,2025-08-08,25,Female,Online,UPI
+T1146,C1091,Laptop,Electronics,8033,4,32132,2025-07-21,35,Female,Store,UPI
+T1147,C1063,Air Fryer,Home & Kitchen,9280,3,27840,2025-11-30,41,Male,Online,Debit Card
+T1148,C1040,Football,Sports,9586,4,38344,2025-06-05,61,Male,Online,UPI
+T1149,C1121,Football,Sports,3812,1,3812,2025-12-09,37,Female,Online,UPI
+T1150,C1043,Smartphone,Electronics,78825,2,157650,2025-12-29,23,Female,Store,Cash
+T1151,C1079,Air Fryer,Home & Kitchen,1304,1,1304,2025-01-22,58,Female,Online,UPI
+T1152,C1046,Jacket,Clothing,2498,5,12490,2025-09-03,52,Female,Online,Cash
+T1153,C1199,Tablet,Electronics,60121,4,240484,2025-09-24,29,Female,Store,Debit Card
+T1154,C1058,Coffee Maker,Home & Kitchen,5911,4,23644,2025-10-14,50,Male,Store,UPI
+T1155,C1043,Sneakers,Clothing,2575,5,12875,2025-09-23,19,Female,Online,Debit Card
+T1156,C1166,T-Shirt,Clothing,3794,3,11382,2025-09-28,62,Female,Store,Credit Card
+T1157,C1105,Perfume,Beauty,1785,2,3570,2025-03-12,32,Female,Store,Cash
+T1158,C1042,Smartphone,Electronics,88711,4,354844,2025-02-12,43,Male,Store,Credit Card
+T1159,C1148,Smartwatch,Electronics,16554,1,16554,2025-10-17,18,Male,Store,UPI
+T1160,C1014,Tablet,Electronics,86195,2,172390,2025-05-09,47,Female,Online,Cash
+T1161,C1024,Tablet,Electronics,45284,3,135852,2025-01-24,48,Male,Online,Cash
+T1162,C1241,Air Fryer,Home & Kitchen,3211,2,6422,2025-07-13,33,Female,Store,UPI
+T1163,C1054,Coffee Maker,Home & Kitchen,1446,3,4338,2025-10-26,46,Male,Online,Credit Card
+T1164,C1042,Jeans,Clothing,2347,5,11735,2025-05-18,59,Female,Store,Debit Card
+T1165,C1120,Hoodie,Clothing,1839,2,3678,2025-02-25,59,Female,Online,Credit Card
+T1166,C1049,Jeans,Clothing,1366,4,5464,2025-04-01,26,Female,Store,Credit Card
+T1167,C1045,Laptop,Electronics,89448,4,357792,2025-02-22,36,Female,Store,Cash
+T1168,C1134,Tablet,Electronics,35615,2,71230,2025-07-23,59,Male,Online,UPI
+T1169,C1211,Running Shoes,Sports,6782,5,33910,2025-09-29,18,Male,Online,Debit Card
+T1170,C1189,Smartwatch,Electronics,3996,1,3996,2025-07-11,43,Female,Store,Cash
+T1171,C1152,Laptop,Electronics,29025,4,116100,2025-07-07,35,Male,Online,Credit Card
+T1172,C1058,Tablet,Electronics,78200,5,391000,2025-09-10,41,Female,Store,UPI
+T1173,C1042,Running Shoes,Sports,1624,4,6496,2025-02-04,56,Male,Store,UPI
+T1174,C1041,Sneakers,Clothing,5195,3,15585,2025-11-21,58,Female,Store,Cash
+T1175,C1162,Jeans,Clothing,5063,4,20252,2025-10-08,44,Male,Store,Debit Card
+T1176,C1037,Sneakers,Clothing,2507,5,12535,2025-11-01,50,Male,Store,Credit Card
+T1177,C1048,Smartphone,Electronics,51417,4,205668,2025-09-02,32,Female,Store,Cash
+T1178,C1127,Tablet,Electronics,46571,3,139713,2025-04-14,55,Female,Online,UPI
+T1179,C1065,Yoga Mat,Sports,6041,2,12082,2025-06-16,35,Male,Online,UPI
+T1180,C1034,Perfume,Beauty,3147,4,12588,2025-11-13,37,Female,Online,UPI
+T1181,C1077,Face Wash,Beauty,744,2,1488,2025-08-19,27,Female,Store,UPI
+T1182,C1107,Laptop,Electronics,14244,1,14244,2025-01-28,48,Male,Store,UPI
+T1183,C1123,Football,Sports,3356,3,10068,2025-10-11,59,Female,Online,UPI
+T1184,C1223,Football,Sports,9508,5,47540,2025-11-11,67,Male,Store,Credit Card
+T1185,C1054,Football,Sports,3491,1,3491,2025-05-10,54,Male,Store,Cash
+T1186,C1070,Headphones,Electronics,31784,4,127136,2025-10-17,60,Female,Store,Credit Card
+T1187,C1245,Yoga Mat,Sports,3601,2,7202,2025-02-01,59,Female,Store,UPI
+T1188,C1069,Jacket,Clothing,4927,2,9854,2025-01-15,61,Female,Store,Credit Card
+T1189,C1082,Yoga Mat,Sports,5685,3,17055,2025-05-19,60,Female,Store,UPI
+T1190,C1159,Yoga Mat,Sports,3289,2,6578,2025-06-03,47,Male,Store,Debit Card
+T1191,C1112,Hoodie,Clothing,3539,5,17695,2025-11-22,31,Female,Store,Debit Card
+T1192,C1075,Jeans,Clothing,4640,3,13920,2025-06-28,66,Female,Online,UPI
+T1193,C1056,Cricket Bat,Sports,7981,1,7981,2025-04-14,28,Female,Online,Credit Card
+T1194,C1217,Running Shoes,Sports,6702,2,13404,2025-06-18,53,Male,Online,UPI
+T1195,C1031,Smartphone,Electronics,10721,1,10721,2025-06-05,30,Male,Online,UPI
+T1196,C1168,Smartphone,Electronics,5722,1,5722,2025-04-22,19,Female,Store,Credit Card
+T1197,C1175,Smartwatch,Electronics,59872,1,59872,2025-11-26,21,Male,Store,Credit Card
+T1198,C1075,Coffee Maker,Home & Kitchen,2817,4,11268,2025-02-14,34,Female,Online,Credit Card
+T1199,C1054,Sneakers,Clothing,5804,2,11608,2025-01-20,64,Female,Store,UPI
+T1200,C1223,Jacket,Clothing,4681,2,9362,2025-10-08,36,Female,Store,Cash
+T1201,C1190,Headphones,Electronics,51211,1,51211,2025-08-16,34,Female,Online,UPI
+T1202,C1203,Mixer,Home & Kitchen,8344,3,25032,2025-10-03,52,Male,Online,Credit Card
+T1203,C1094,Badminton Racket,Sports,7191,4,28764,2025-06-04,61,Female,Store,Debit Card
+T1204,C1139,Mixer,Home & Kitchen,10467,3,31401,2025-08-01,69,Female,Store,Cash
+T1205,C1154,Air Fryer,Home & Kitchen,7024,1,7024,2025-01-04,29,Male,Online,Cash
+T1206,C1211,T-Shirt,Clothing,505,5,2525,2025-02-08,45,Female,Online,Cash
+T1207,C1205,Football,Sports,3548,5,17740,2025-01-28,19,Female,Store,Credit Card
+T1208,C1152,Sneakers,Clothing,4208,5,21040,2025-03-25,32,Female,Online,UPI
+T1209,C1224,Air Fryer,Home & Kitchen,11697,3,35091,2025-10-30,65,Female,Store,UPI
+T1210,C1208,Coffee Maker,Home & Kitchen,11003,4,44012,2025-01-03,29,Female,Store,Credit Card
+T1211,C1187,Football,Sports,2510,3,7530,2025-02-18,68,Female,Online,Credit Card
+T1212,C1094,Mixer,Home & Kitchen,6146,2,12292,2025-09-12,45,Female,Online,Credit Card
+T1213,C1184,Laptop,Electronics,36445,4,145780,2025-08-22,63,Female,Store,Credit Card
+T1214,C1057,Mixer,Home & Kitchen,2110,5,10550,2025-08-11,42,Female,Store,Cash
+T1215,C1098,Running Shoes,Sports,9253,4,37012,2025-02-02,25,Male,Store,UPI
+T1216,C1237,Smartwatch,Electronics,20310,5,101550,2025-12-11,25,Female,Store,Cash
+T1217,C1036,Badminton Racket,Sports,6302,1,6302,2025-05-30,20,Female,Store,Credit Card
+T1218,C1219,Yoga Mat,Sports,8929,3,26787,2025-01-10,66,Male,Online,UPI
+T1219,C1015,Coffee Maker,Home & Kitchen,2148,5,10740,2025-03-12,36,Male,Store,UPI
+T1220,C1073,Headphones,Electronics,52110,5,260550,2025-03-17,47,Female,Online,Debit Card
+T1221,C1144,Sneakers,Clothing,5686,2,11372,2025-05-10,40,Male,Online,UPI
+T1222,C1193,Sneakers,Clothing,412,4,1648,2025-11-03,69,Male,Store,Cash
+T1223,C1171,Yoga Mat,Sports,5710,3,17130,2025-05-21,57,Male,Online,Debit Card
+T1224,C1010,Mixer,Home & Kitchen,2145,4,8580,2025-06-01,53,Male,Store,UPI
+T1225,C1094,Tablet,Electronics,28424,5,142120,2025-12-30,28,Female,Store,Credit Card
+T1226,C1025,Mixer,Home & Kitchen,6627,5,33135,2025-03-04,37,Male,Store,UPI
+T1227,C1099,Coffee Maker,Home & Kitchen,5939,1,5939,2025-05-06,67,Female,Online,UPI
+T1228,C1133,Badminton Racket,Sports,5184,1,5184,2025-07-28,42,Male,Store,UPI
+T1229,C1130,Sneakers,Clothing,546,1,546,2025-04-28,47,Female,Store,UPI
+T1230,C1175,Face Wash,Beauty,456,2,912,2025-07-05,42,Female,Online,Credit Card
+T1231,C1072,Mixer,Home & Kitchen,5059,5,25295,2025-06-01,64,Male,Online,Debit Card
+T1232,C1220,Smartphone,Electronics,62113,3,186339,2025-03-15,52,Male,Online,Cash
+T1233,C1063,Tablet,Electronics,1709,5,8545,2025-12-28,46,Male,Store,Cash
+T1234,C1116,Laptop,Electronics,33424,2,66848,2025-12-03,56,Male,Store,Cash
+T1235,C1011,Perfume,Beauty,980,4,3920,2025-07-13,36,Female,Online,Cash
+T1236,C1017,Perfume,Beauty,3025,1,3025,2025-03-14,69,Female,Store,UPI
+T1237,C1070,Mixer,Home & Kitchen,2289,5,11445,2025-07-29,64,Female,Online,UPI
+T1238,C1058,Jacket,Clothing,4699,5,23495,2025-11-26,37,Male,Online,Debit Card
+T1239,C1067,Sneakers,Clothing,3967,5,19835,2025-10-22,45,Female,Online,Debit Card
+T1240,C1239,Yoga Mat,Sports,4794,5,23970,2025-11-04,54,Female,Store,Cash
+T1241,C1168,Sneakers,Clothing,4214,2,8428,2025-04-02,40,Male,Online,UPI
+T1242,C1241,Mixer,Home & Kitchen,4553,3,13659,2025-08-06,47,Male,Store,Credit Card
+T1243,C1030,Yoga Mat,Sports,3322,2,6644,2025-11-23,67,Female,Store,Credit Card
+T1244,C1137,Jeans,Clothing,1657,3,4971,2025-11-09,62,Male,Online,Debit Card
+T1245,C1180,Air Fryer,Home & Kitchen,5293,3,15879,2025-10-18,50,Male,Store,Debit Card
+T1246,C1156,Smartphone,Electronics,83906,5,419530,2025-12-19,49,Female,Online,UPI
+T1247,C1101,Smartphone,Electronics,28013,3,84039,2025-04-17,32,Female,Store,UPI
+T1248,C1073,Badminton Racket,Sports,1265,2,2530,2025-07-29,45,Male,Online,Debit Card
+T1249,C1076,T-Shirt,Clothing,2013,4,8052,2025-07-05,41,Male,Online,Debit Card
+T1250,C1156,Running Shoes,Sports,9378,5,46890,2025-08-07,36,Female,Store,UPI
+T1251,C1044,Face Wash,Beauty,2623,2,5246,2025-12-22,59,Male,Online,Cash
+T1252,C1067,Air Fryer,Home & Kitchen,6192,3,18576,2025-12-15,21,Female,Online,Debit Card
+T1253,C1099,Perfume,Beauty,3017,1,3017,2025-03-30,66,Female,Store,Cash
+T1254,C1196,Yoga Mat,Sports,2117,1,2117,2025-07-08,65,Male,Online,Debit Card
+T1255,C1102,Sneakers,Clothing,670,2,1340,2025-12-05,64,Female,Online,Credit Card
+T1256,C1199,Face Wash,Beauty,1912,1,1912,2025-12-05,47,Male,Online,Debit Card
+T1257,C1023,Running Shoes,Sports,4782,4,19128,2025-09-07,56,Female,Store,UPI
+T1258,C1017,Cricket Bat,Sports,695,1,695,2025-12-22,44,Male,Online,UPI
+T1259,C1109,Badminton Racket,Sports,1386,1,1386,2025-03-20,63,Male,Online,Cash
+T1260,C1124,Sneakers,Clothing,1469,2,2938,2025-02-12,33,Male,Online,Debit Card
+T1261,C1118,Hoodie,Clothing,5848,3,17544,2025-01-31,45,Female,Online,Debit Card
+T1262,C1199,Face Wash,Beauty,641,1,641,2025-01-02,41,Female,Store,Cash
+T1263,C1191,Tablet,Electronics,50577,3,151731,2025-06-14,55,Female,Online,Debit Card
+T1264,C1214,Perfume,Beauty,1288,4,5152,2025-06-06,18,Male,Store,Credit Card
+T1265,C1141,Coffee Maker,Home & Kitchen,8878,1,8878,2025-06-13,64,Female,Store,UPI
+T1266,C1214,Sneakers,Clothing,538,3,1614,2025-03-11,18,Female,Store,UPI
+T1267,C1036,Smartwatch,Electronics,40570,2,81140,2025-05-08,64,Female,Online,Credit Card
+T1268,C1001,Smartphone,Electronics,52937,2,105874,2025-12-03,47,Male,Store,UPI
+T1269,C1041,Laptop,Electronics,33344,1,33344,2025-02-28,45,Male,Online,Debit Card
+T1270,C1134,Football,Sports,5567,1,5567,2025-02-25,18,Female,Online,Cash
+T1271,C1147,Laptop,Electronics,60984,1,60984,2025-06-09,59,Female,Online,UPI
+T1272,C1110,Coffee Maker,Home & Kitchen,2960,2,5920,2025-01-02,26,Female,Online,Cash
+T1273,C1131,Tablet,Electronics,22876,1,22876,2025-02-18,29,Female,Store,Credit Card
+T1274,C1161,Coffee Maker,Home & Kitchen,6700,2,13400,2025-06-27,54,Female,Store,Debit Card
+T1275,C1080,Cricket Bat,Sports,6682,4,26728,2025-08-18,41,Male,Store,Credit Card
+T1276,C1220,Smartphone,Electronics,75616,1,75616,2025-08-02,29,Male,Store,UPI
+T1277,C1219,Perfume,Beauty,4090,3,12270,2025-08-02,27,Male,Store,Debit Card
+T1278,C1085,Mixer,Home & Kitchen,7457,1,7457,2025-08-25,52,Male,Online,Credit Card
+T1279,C1212,Hoodie,Clothing,5599,4,22396,2025-11-04,42,Male,Online,Cash
+T1280,C1150,Tablet,Electronics,62165,1,62165,2025-11-27,47,Male,Online,Credit Card
+T1281,C1132,Coffee Maker,Home & Kitchen,1379,3,4137,2025-10-10,54,Female,Online,Debit Card
+T1282,C1154,Cricket Bat,Sports,4831,5,24155,2025-08-16,36,Female,Online,UPI
+T1283,C1189,Laptop,Electronics,69835,4,279340,2025-11-18,34,Female,Store,UPI
+T1284,C1126,Sneakers,Clothing,858,5,4290,2025-01-02,59,Female,Store,Debit Card
+T1285,C1007,Hoodie,Clothing,2248,1,2248,2025-07-14,47,Female,Online,Debit Card
+T1286,C1087,Sneakers,Clothing,3426,5,17130,2025-02-23,57,Female,Store,UPI
+T1287,C1161,Smartphone,Electronics,35857,3,107571,2025-01-31,50,Female,Store,Debit Card
+T1288,C1218,Jeans,Clothing,4492,4,17968,2025-04-17,33,Male,Online,Debit Card
+T1289,C1023,T-Shirt,Clothing,2042,1,2042,2025-11-25,67,Male,Online,Cash
+T1290,C1057,Smartwatch,Electronics,75523,3,226569,2025-06-13,20,Female,Store,Debit Card
+T1291,C1211,Football,Sports,3382,2,6764,2025-11-07,62,Female,Online,UPI
+T1292,C1064,Badminton Racket,Sports,9953,3,29859,2025-03-08,66,Female,Store,Credit Card
+T1293,C1181,Jacket,Clothing,3422,5,17110,2025-03-09,45,Male,Store,Debit Card
+T1294,C1184,Tablet,Electronics,79214,1,79214,2025-04-18,20,Female,Online,Credit Card
+T1295,C1131,Yoga Mat,Sports,2576,3,7728,2025-11-16,48,Male,Store,UPI
+T1296,C1221,Headphones,Electronics,57924,3,173772,2025-10-12,42,Male,Store,UPI
+T1297,C1215,Tablet,Electronics,72237,2,144474,2025-08-07,50,Female,Store,Debit Card
+T1298,C1041,Sneakers,Clothing,851,5,4255,2025-08-17,60,Male,Online,Credit Card
+T1299,C1193,Headphones,Electronics,23621,3,70863,2025-01-29,64,Male,Store,Debit Card
+T1300,C1142,Badminton Racket,Sports,3618,1,3618,2025-10-05,31,Male,Online,Debit Card
+T1301,C1051,Mixer,Home & Kitchen,4739,1,4739,2025-11-29,55,Male,Store,Debit Card
+T1302,C1080,T-Shirt,Clothing,1846,1,1846,2025-06-10,46,Male,Store,Debit Card
+T1303,C1223,Cricket Bat,Sports,1264,5,6320,2025-02-21,27,Female,Store,UPI
+T1304,C1087,Air Fryer,Home & Kitchen,1910,3,5730,2025-02-21,51,Male,Store,Debit Card
+T1305,C1120,Air Fryer,Home & Kitchen,9683,5,48415,2025-08-13,51,Male,Store,UPI
+T1306,C1189,Headphones,Electronics,15708,4,62832,2025-11-23,41,Male,Store,UPI
+T1307,C1125,Yoga Mat,Sports,2031,5,10155,2025-09-20,50,Male,Online,Cash
+T1308,C1197,Jacket,Clothing,1886,4,7544,2025-05-12,51,Male,Online,UPI
+T1309,C1218,T-Shirt,Clothing,1905,2,3810,2025-10-09,18,Female,Online,Credit Card
+T1310,C1127,Laptop,Electronics,89063,4,356252,2025-01-16,38,Male,Online,Cash
+T1311,C1131,Yoga Mat,Sports,3533,4,14132,2025-02-11,29,Male,Store,UPI
+T1312,C1078,Running Shoes,Sports,9833,1,9833,2025-04-16,68,Female,Store,Credit Card
+T1313,C1199,Headphones,Electronics,26625,1,26625,2025-08-30,41,Male,Online,Credit Card
+T1314,C1161,Cricket Bat,Sports,3086,5,15430,2025-05-27,42,Male,Store,Debit Card
+T1315,C1217,Jeans,Clothing,2831,4,11324,2025-03-13,59,Male,Online,UPI
+T1316,C1124,Laptop,Electronics,18957,4,75828,2025-08-21,59,Male,Store,UPI
+T1317,C1228,T-Shirt,Clothing,1107,4,4428,2025-03-28,68,Female,Store,Cash
+T1318,C1086,Jacket,Clothing,1376,5,6880,2025-05-01,50,Male,Online,Cash
+T1319,C1032,Face Wash,Beauty,4263,1,4263,2025-01-31,29,Male,Store,Cash
+T1320,C1033,T-Shirt,Clothing,3147,2,6294,2025-01-19,69,Female,Store,Credit Card
+T1321,C1097,Hoodie,Clothing,4063,4,16252,2025-12-14,60,Female,Online,Cash
+T1322,C1017,Cricket Bat,Sports,4258,5,21290,2025-10-05,26,Male,Online,Debit Card
+T1323,C1033,Mixer,Home & Kitchen,4588,5,22940,2025-01-08,33,Female,Online,Debit Card
+T1324,C1065,Laptop,Electronics,70635,1,70635,2025-01-05,33,Female,Online,Credit Card
+T1325,C1069,Running Shoes,Sports,1861,5,9305,2025-05-16,20,Female,Online,Credit Card
+T1326,C1125,Jacket,Clothing,4450,2,8900,2025-06-27,48,Male,Online,Credit Card
+T1327,C1112,Jeans,Clothing,5279,1,5279,2025-05-15,31,Male,Online,Debit Card
+T1328,C1064,T-Shirt,Clothing,4383,4,17532,2025-01-29,33,Female,Online,UPI
+T1329,C1121,Air Fryer,Home & Kitchen,7339,5,36695,2025-09-25,58,Male,Online,UPI
+T1330,C1100,Yoga Mat,Sports,5959,4,23836,2025-07-29,67,Male,Online,Debit Card
+T1331,C1023,Air Fryer,Home & Kitchen,1540,2,3080,2025-02-15,20,Male,Store,Debit Card
+T1332,C1041,Jeans,Clothing,2684,5,13420,2025-02-23,27,Male,Online,Cash
+T1333,C1118,Smartphone,Electronics,1494,5,7470,2025-11-13,39,Female,Online,Debit Card
+T1334,C1123,Tablet,Electronics,7504,1,7504,2025-09-15,49,Female,Store,UPI
+T1335,C1205,Coffee Maker,Home & Kitchen,2368,3,7104,2025-07-12,34,Female,Store,UPI
+T1336,C1089,Sneakers,Clothing,653,5,3265,2025-03-10,34,Female,Online,Credit Card
+T1337,C1047,Running Shoes,Sports,8857,5,44285,2025-07-26,30,Male,Store,UPI
+T1338,C1097,Face Wash,Beauty,3471,3,10413,2025-07-29,53,Female,Store,Debit Card
+T1339,C1015,Smartwatch,Electronics,69484,1,69484,2025-05-11,20,Male,Store,Debit Card
+T1340,C1040,Jacket,Clothing,4332,2,8664,2025-11-27,60,Male,Store,Credit Card
+T1341,C1043,Laptop,Electronics,10428,2,20856,2025-08-08,48,Male,Online,Cash
+T1342,C1225,Perfume,Beauty,4208,3,12624,2025-04-25,62,Female,Store,Cash
+T1343,C1014,Badminton Racket,Sports,1500,1,1500,2025-01-05,54,Female,Online,Debit Card
+T1344,C1211,Jacket,Clothing,3923,4,15692,2025-12-05,64,Female,Store,Credit Card
+T1345,C1095,Sneakers,Clothing,1476,5,7380,2025-07-25,63,Female,Store,Cash
+T1346,C1077,Smartwatch,Electronics,77878,3,233634,2025-03-11,43,Female,Online,UPI
+T1347,C1112,Running Shoes,Sports,1729,4,6916,2025-01-19,18,Female,Store,Credit Card
+T1348,C1086,Smartphone,Electronics,48455,3,145365,2025-07-28,68,Male,Store,Cash
+T1349,C1090,Tablet,Electronics,1960,2,3920,2025-12-02,48,Female,Online,UPI
+T1350,C1032,Running Shoes,Sports,5035,4,20140,2025-02-25,43,Male,Store,Debit Card
+T1351,C1042,Yoga Mat,Sports,2360,2,4720,2025-10-08,69,Female,Online,Credit Card
+T1352,C1038,Laptop,Electronics,81944,4,327776,2025-05-17,53,Male,Online,Cash
+T1353,C1015,Laptop,Electronics,27597,1,27597,2025-01-18,23,Female,Store,Cash
+T1354,C1150,Cricket Bat,Sports,1692,3,5076,2025-07-07,24,Male,Store,Cash
+T1355,C1250,Running Shoes,Sports,8894,5,44470,2025-01-22,18,Male,Store,UPI
+T1356,C1141,Headphones,Electronics,69910,2,139820,2025-04-11,24,Female,Online,UPI
+T1357,C1007,Hoodie,Clothing,977,4,3908,2025-10-08,61,Female,Online,Cash
+T1358,C1125,Face Wash,Beauty,1434,5,7170,2025-09-10,38,Male,Online,Debit Card
+T1359,C1070,Laptop,Electronics,20489,3,61467,2025-12-13,69,Male,Online,Cash
+T1360,C1024,T-Shirt,Clothing,5958,1,5958,2025-12-30,40,Female,Online,Cash
+T1361,C1092,Smartwatch,Electronics,36361,5,181805,2025-06-24,29,Male,Online,Debit Card
+T1362,C1115,Yoga Mat,Sports,8635,3,25905,2025-12-21,43,Male,Online,UPI
+T1363,C1130,Yoga Mat,Sports,4720,1,4720,2025-02-25,48,Male,Online,Cash
+T1364,C1245,Laptop,Electronics,14218,2,28436,2025-08-14,56,Male,Store,Credit Card
+T1365,C1068,Headphones,Electronics,43645,4,174580,2025-02-04,28,Male,Store,UPI
+T1366,C1191,Cricket Bat,Sports,7139,2,14278,2025-08-11,21,Female,Store,UPI
+T1367,C1126,Perfume,Beauty,4296,3,12888,2025-08-17,39,Female,Store,UPI
+T1368,C1184,Face Wash,Beauty,3888,3,11664,2025-09-07,30,Male,Online,Credit Card
+T1369,C1169,Perfume,Beauty,916,3,2748,2025-05-24,35,Male,Online,Cash
+T1370,C1234,Hoodie,Clothing,632,4,2528,2025-10-23,36,Male,Online,Credit Card
+T1371,C1184,Cricket Bat,Sports,9847,1,9847,2025-04-17,48,Female,Store,UPI
+T1372,C1201,Mixer,Home & Kitchen,1231,4,4924,2025-07-21,67,Female,Store,Debit Card
+T1373,C1194,Jeans,Clothing,5783,3,17349,2025-05-15,58,Female,Online,UPI
+T1374,C1139,Perfume,Beauty,2615,4,10460,2025-01-04,69,Female,Store,Credit Card
+T1375,C1207,Football,Sports,1515,3,4545,2025-01-31,30,Female,Online,Cash
+T1376,C1247,Coffee Maker,Home & Kitchen,7813,5,39065,2025-11-14,65,Male,Online,Debit Card
+T1377,C1137,Headphones,Electronics,25235,5,126175,2025-02-04,45,Male,Online,Credit Card
+T1378,C1083,Mixer,Home & Kitchen,6530,5,32650,2025-11-04,52,Female,Online,Debit Card
+T1379,C1247,Air Fryer,Home & Kitchen,8607,1,8607,2025-08-31,46,Female,Store,UPI
+T1380,C1049,Perfume,Beauty,4530,3,13590,2025-07-14,32,Male,Online,UPI
+T1381,C1102,Sneakers,Clothing,4908,2,9816,2025-12-09,62,Male,Online,Cash
+T1382,C1114,Laptop,Electronics,23723,4,94892,2025-02-20,34,Female,Online,UPI
+T1383,C1120,Perfume,Beauty,3951,1,3951,2025-05-22,53,Male,Online,UPI
+T1384,C1207,Perfume,Beauty,1101,1,1101,2025-01-19,30,Male,Online,Credit Card
+T1385,C1241,Cricket Bat,Sports,2598,2,5196,2025-07-01,58,Male,Online,UPI
+T1386,C1147,Mixer,Home & Kitchen,7328,4,29312,2025-11-07,36,Male,Store,Cash
+T1387,C1071,Jeans,Clothing,5161,3,15483,2025-12-24,33,Female,Online,Cash
+T1388,C1128,Coffee Maker,Home & Kitchen,9453,4,37812,2025-08-09,41,Female,Online,Cash
+T1389,C1037,Mixer,Home & Kitchen,4650,5,23250,2025-06-07,46,Female,Online,Credit Card
+T1390,C1121,Running Shoes,Sports,6189,3,18567,2025-09-08,60,Male,Online,UPI
+T1391,C1221,Sneakers,Clothing,696,2,1392,2025-03-18,32,Female,Online,UPI
+T1392,C1163,Headphones,Electronics,40122,4,160488,2025-11-16,27,Male,Online,UPI
+T1393,C1169,Jacket,Clothing,3244,1,3244,2025-05-29,29,Male,Store,Credit Card
+T1394,C1153,Smartphone,Electronics,70306,3,210918,2025-07-15,40,Male,Store,Cash
+T1395,C1023,Yoga Mat,Sports,2297,3,6891,2025-08-09,34,Female,Store,UPI
+T1396,C1249,Badminton Racket,Sports,1215,4,4860,2025-01-02,41,Male,Online,Credit Card
+T1397,C1247,Face Wash,Beauty,1464,5,7320,2025-08-16,52,Female,Store,Cash
+T1398,C1160,Jacket,Clothing,3349,2,6698,2025-01-21,59,Female,Online,Debit Card
+T1399,C1084,Badminton Racket,Sports,6572,1,6572,2025-11-04,68,Female,Store,UPI
+T1400,C1191,Jacket,Clothing,4347,2,8694,2025-08-31,59,Male,Online,UPI
+T1401,C1250,Face Wash,Beauty,281,2,562,2025-01-12,24,Male,Online,Cash
+T1402,C1193,Yoga Mat,Sports,425,3,1275,2025-02-02,54,Male,Online,Debit Card
+T1403,C1063,Jacket,Clothing,4059,3,12177,2025-09-06,36,Male,Online,Cash
+T1404,C1086,Mixer,Home & Kitchen,4175,1,4175,2025-11-22,25,Female,Online,UPI
+T1405,C1184,Jeans,Clothing,3795,4,15180,2025-01-04,64,Male,Online,UPI
+T1406,C1250,Sneakers,Clothing,5073,3,15219,2025-09-20,66,Female,Online,Cash
+T1407,C1041,Smartphone,Electronics,69482,2,138964,2025-10-09,19,Male,Online,Debit Card
+T1408,C1017,Smartphone,Electronics,37531,2,75062,2025-09-28,59,Male,Online,Debit Card
+T1409,C1095,Sneakers,Clothing,4787,1,4787,2025-10-19,65,Male,Online,Debit Card
+T1410,C1221,T-Shirt,Clothing,473,4,1892,2025-09-03,39,Male,Store,Cash
+T1411,C1125,T-Shirt,Clothing,4905,3,14715,2025-12-10,46,Male,Store,Credit Card
+T1412,C1235,Laptop,Electronics,26195,3,78585,2025-09-07,29,Female,Online,Cash
+T1413,C1050,Tablet,Electronics,46310,2,92620,2025-04-25,53,Female,Store,UPI
+T1414,C1019,Face Wash,Beauty,2775,3,8325,2025-02-11,34,Female,Store,Cash
+T1415,C1117,Smartphone,Electronics,72040,4,288160,2025-11-06,42,Female,Store,Debit Card
+T1416,C1051,Coffee Maker,Home & Kitchen,4919,1,4919,2025-05-03,43,Male,Online,Cash
+T1417,C1133,Smartphone,Electronics,89067,2,178134,2025-01-05,22,Female,Store,Credit Card
+T1418,C1234,Tablet,Electronics,15388,1,15388,2025-04-03,39,Male,Store,Cash
+T1419,C1191,Hoodie,Clothing,2754,2,5508,2025-05-14,66,Male,Store,Credit Card
+T1420,C1123,Perfume,Beauty,1312,3,3936,2025-11-03,67,Male,Store,Cash
+T1421,C1070,Cricket Bat,Sports,9991,3,29973,2025-06-29,52,Female,Store,Cash
+T1422,C1113,Coffee Maker,Home & Kitchen,1889,3,5667,2025-06-30,36,Female,Online,Debit Card
+T1423,C1068,Sneakers,Clothing,1645,3,4935,2025-11-14,52,Male,Online,UPI
+T1424,C1051,Yoga Mat,Sports,4777,3,14331,2025-11-07,23,Male,Store,UPI
+T1425,C1138,Coffee Maker,Home & Kitchen,840,1,840,2025-06-24,60,Male,Online,UPI
+T1426,C1017,Mixer,Home & Kitchen,5227,1,5227,2025-09-10,27,Male,Store,Credit Card
+T1427,C1216,Yoga Mat,Sports,8372,2,16744,2025-08-06,66,Female,Store,Cash
+T1428,C1202,Air Fryer,Home & Kitchen,6544,3,19632,2025-02-04,50,Female,Online,UPI
+T1429,C1128,Smartwatch,Electronics,51321,1,51321,2025-01-01,42,Female,Online,Credit Card
+T1430,C1026,Badminton Racket,Sports,8391,5,41955,2025-09-09,29,Male,Store,Cash
+T1431,C1058,Cricket Bat,Sports,3170,2,6340,2025-08-27,29,Male,Store,UPI
+T1432,C1079,Smartphone,Electronics,33838,1,33838,2025-08-15,42,Female,Online,Debit Card
+T1433,C1032,T-Shirt,Clothing,5699,5,28495,2025-03-12,46,Female,Store,Cash
+T1434,C1114,Smartwatch,Electronics,39133,4,156532,2025-03-27,35,Male,Online,Credit Card
+T1435,C1035,Smartphone,Electronics,20140,5,100700,2025-10-20,54,Male,Online,Debit Card
+T1436,C1161,Badminton Racket,Sports,8550,4,34200,2025-08-10,35,Female,Store,Cash
+T1437,C1176,Cricket Bat,Sports,1551,5,7755,2025-02-25,48,Male,Store,Cash
+T1438,C1233,Mixer,Home & Kitchen,8902,2,17804,2025-06-16,29,Female,Online,Cash
+T1439,C1093,Jeans,Clothing,4355,2,8710,2025-11-30,28,Male,Online,Credit Card
+T1440,C1097,Sneakers,Clothing,1087,2,2174,2025-07-30,48,Male,Online,UPI
+T1441,C1114,Smartphone,Electronics,71372,1,71372,2025-05-15,33,Male,Online,Credit Card
+T1442,C1085,Running Shoes,Sports,4108,4,16432,2025-03-02,59,Male,Store,Debit Card
+T1443,C1140,Hoodie,Clothing,1955,2,3910,2025-06-13,45,Female,Online,UPI
+T1444,C1137,Headphones,Electronics,74396,2,148792,2025-06-27,58,Male,Online,Credit Card
+T1445,C1019,Perfume,Beauty,3276,4,13104,2025-09-14,61,Female,Store,Debit Card
+T1446,C1154,Cricket Bat,Sports,814,3,2442,2025-07-14,40,Female,Online,Credit Card
+T1447,C1219,Air Fryer,Home & Kitchen,4397,2,8794,2025-11-19,40,Male,Online,UPI
+T1448,C1072,Mixer,Home & Kitchen,1074,3,3222,2025-11-04,56,Male,Store,Cash
+T1449,C1236,Sneakers,Clothing,3837,5,19185,2025-04-04,36,Male,Store,Cash
+T1450,C1004,Tablet,Electronics,59526,5,297630,2025-09-02,62,Female,Store,UPI
+T1451,C1107,Jacket,Clothing,5479,3,16437,2025-01-17,67,Male,Online,Credit Card
+T1452,C1072,Cricket Bat,Sports,2911,2,5822,2025-01-31,65,Male,Store,Cash
+T1453,C1073,Jeans,Clothing,4913,4,19652,2025-11-05,31,Female,Online,Cash
+T1454,C1181,Hoodie,Clothing,655,1,655,2025-09-25,23,Male,Online,UPI
+T1455,C1080,T-Shirt,Clothing,970,1,970,2025-09-06,41,Male,Store,Cash
+T1456,C1142,T-Shirt,Clothing,4916,5,24580,2025-12-14,55,Male,Store,UPI
+T1457,C1207,Jeans,Clothing,3906,1,3906,2025-08-09,69,Male,Store,UPI
+T1458,C1167,Yoga Mat,Sports,1665,2,3330,2025-02-11,28,Male,Store,Debit Card
+T1459,C1140,Jacket,Clothing,2690,2,5380,2025-03-18,62,Female,Online,Debit Card
+T1460,C1025,Football,Sports,5229,4,20916,2025-01-22,61,Female,Store,UPI
+T1461,C1009,Mixer,Home & Kitchen,4774,5,23870,2025-10-07,36,Male,Store,Debit Card
+T1462,C1181,Cricket Bat,Sports,8243,3,24729,2025-08-09,41,Female,Online,UPI
+T1463,C1135,Hoodie,Clothing,2822,5,14110,2025-01-14,56,Male,Store,Credit Card
+T1464,C1047,Smartwatch,Electronics,89428,2,178856,2025-02-07,18,Female,Online,Cash
+T1465,C1008,Headphones,Electronics,17910,3,53730,2025-11-12,43,Female,Online,Cash
+T1466,C1096,Coffee Maker,Home & Kitchen,3779,1,3779,2025-05-11,49,Male,Store,Credit Card
+T1467,C1160,Perfume,Beauty,834,2,1668,2025-06-17,68,Male,Online,UPI
+T1468,C1028,Cricket Bat,Sports,4238,3,12714,2025-01-08,42,Female,Store,Cash
+T1469,C1062,Face Wash,Beauty,3252,3,9756,2025-08-16,44,Female,Online,Debit Card
+T1470,C1225,Air Fryer,Home & Kitchen,4188,4,16752,2025-10-08,59,Male,Store,Credit Card
+T1471,C1177,Face Wash,Beauty,3919,1,3919,2025-03-21,35,Male,Online,Cash
+T1472,C1008,Running Shoes,Sports,1880,1,1880,2025-11-10,52,Female,Online,Cash
+T1473,C1053,Air Fryer,Home & Kitchen,2258,1,2258,2025-07-01,31,Male,Online,Credit Card
+T1474,C1012,Jeans,Clothing,4650,3,13950,2025-11-07,50,Female,Store,Cash
+T1475,C1250,Badminton Racket,Sports,8380,3,25140,2025-04-03,47,Female,Store,UPI
+T1476,C1015,Jeans,Clothing,2750,5,13750,2025-10-28,30,Female,Online,Cash
+T1477,C1233,Tablet,Electronics,23852,3,71556,2025-06-21,54,Male,Store,UPI
+T1478,C1221,Face Wash,Beauty,3859,4,15436,2025-03-02,57,Male,Store,UPI
+T1479,C1233,Laptop,Electronics,79297,4,317188,2025-12-10,38,Male,Online,UPI
+T1480,C1157,Headphones,Electronics,83838,2,167676,2025-09-03,46,Male,Online,Credit Card
+T1481,C1184,Football,Sports,6091,5,30455,2025-12-03,38,Male,Store,Debit Card
+T1482,C1082,Jeans,Clothing,1593,5,7965,2025-08-24,65,Male,Online,UPI
+T1483,C1037,Headphones,Electronics,46771,5,233855,2025-06-28,29,Female,Online,UPI
+T1484,C1159,T-Shirt,Clothing,1878,2,3756,2025-01-08,26,Male,Store,UPI
+T1485,C1175,Jacket,Clothing,5544,5,27720,2025-02-12,58,Male,Online,Credit Card
+T1486,C1197,Face Wash,Beauty,1788,4,7152,2025-02-03,29,Male,Store,Cash
+T1487,C1052,T-Shirt,Clothing,4269,3,12807,2025-08-20,24,Female,Store,Cash
+T1488,C1237,Perfume,Beauty,3189,4,12756,2025-08-09,61,Female,Online,UPI
+T1489,C1208,Coffee Maker,Home & Kitchen,2929,1,2929,2025-10-04,32,Female,Store,Cash
+T1490,C1052,Perfume,Beauty,4529,4,18116,2025-01-27,40,Male,Online,UPI
+T1491,C1117,Sneakers,Clothing,4676,1,4676,2025-04-30,69,Male,Online,Debit Card
+T1492,C1080,Hoodie,Clothing,5779,5,28895,2025-05-13,28,Male,Online,Cash
+T1493,C1149,Sneakers,Clothing,1925,4,7700,2025-09-12,19,Female,Online,Credit Card
+T1494,C1156,T-Shirt,Clothing,3770,5,18850,2025-12-04,61,Male,Online,Cash
+T1495,C1055,Yoga Mat,Sports,7896,4,31584,2025-09-13,48,Male,Online,Debit Card
+T1496,C1156,Smartphone,Electronics,53128,1,53128,2025-11-21,32,Male,Online,Debit Card
+T1497,C1075,Headphones,Electronics,83333,4,333332,2025-12-10,48,Male,Online,UPI
+T1498,C1159,Smartwatch,Electronics,26592,1,26592,2025-03-06,20,Male,Store,UPI
+T1499,C1184,Hoodie,Clothing,2775,4,11100,2025-08-05,39,Male,Online,UPI
+T1500,C1002,Hoodie,Clothing,1059,1,1059,2025-02-16,40,Male,Online,UPI
