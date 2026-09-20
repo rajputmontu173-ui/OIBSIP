@@ -49,16 +49,7 @@ Main columns include:
 * Matplotlib
 * Seaborn
 
-### Project Files
 
-```text
-Oasis_Task1/
-│
-├── retail_sales_dataset.csv
-├── create_dataset.py
-├── retail_sales_eda.py
-└── README.md
-```
 
 ### Analysis Performed
 
